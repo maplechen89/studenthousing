@@ -1,1 +1,155 @@
-[]
+[
+  {
+    "claim_id": "c1",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "Institutional investors' share of total student housing investment volume",
+    "value": "40",
+    "unit": "percent",
+    "period": "2024",
+    "quote": "Institutional capital ticked back up in 2024 and 2025, at 40% and 35% (YTD),"
+  },
+  {
+    "claim_id": "c2",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "Institutional investors' share of total student housing investment volume",
+    "value": "35",
+    "unit": "percent",
+    "period": "2025 year to date",
+    "quote": "Institutional capital ticked back up in 2024 and 2025, at 40% and 35% (YTD),"
+  },
+  {
+    "claim_id": "c3",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "Cross-border investors' share of student housing deal volume",
+    "value": "11",
+    "unit": "percent",
+    "period": "2025 year to date",
+    "quote": "ticking upward at 11% of deal volume YTD in 2025."
+  },
+  {
+    "claim_id": "c4",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "U.S. student housing transaction volume",
+    "value": "3.9",
+    "unit": "billion USD",
+    "period": "2023",
+    "quote": "transactional activity in 2023 to $3.9 billion."
+  },
+  {
+    "claim_id": "c5",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "U.S. student housing property sales volume",
+    "value": "6.6",
+    "unit": "billion USD",
+    "period": "2024",
+    "quote": "Student housing property sales rebounded in 2024, increasing to $6.6 billion— with H1 2025 sales on pace to surpass last year’s volume."
+  },
+  {
+    "claim_id": "c6",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "Average student housing capitalization rate in Cushman & Wakefield valuations",
+    "value": "5.38",
+    "unit": "percent",
+    "period": "trailing 12 months to the 2025-2026 academic year",
+    "quote": "Capitalization Rate (%) 6.08 5.81 5.38 5.00 4.88"
+  },
+  {
+    "claim_id": "c7",
+    "source_id": "student-housing-outlook-2026",
+    "subject": "U.S. student housing transaction volume",
+    "value": "8.78",
+    "unit": "billion USD",
+    "period": "2025",
+    "quote": "2025 volume reached $8.78 billion, a 48 percent increase over the 2023 trough of  $5.93 billion, though essentially flat versus 2024."
+  },
+  {
+    "claim_id": "c8",
+    "source_id": "student-housing-outlook-2026",
+    "subject": "U.S. student housing transaction volume (2023 trough)",
+    "value": "5.93",
+    "unit": "billion USD",
+    "period": "2023",
+    "quote": "2025 volume reached $8.78 billion, a 48 percent increase over the 2023 trough of  $5.93 billion, though essentially flat versus 2024."
+  },
+  {
+    "claim_id": "c9",
+    "source_id": "student-housing-market-update-september-2026",
+    "subject": "Trailing 12-month student housing transaction volume",
+    "value": "1.49",
+    "unit": "billion USD",
+    "period": "trailing 12 months to 2Q26",
+    "quote": "Trailing 12-month student housing transaction volume reached  $1.49B as of 2Q26 , representing a  22% increase from the prior quarter , although volume remained 21% below the year-ago level."
+  },
+  {
+    "claim_id": "c10",
+    "source_id": "student-housing-market-update-september-2026",
+    "subject": "Low end of national student housing cap rate range",
+    "value": "5.50",
+    "unit": "percent",
+    "period": "September 2026",
+    "quote": "Current student housing capitalization rates generally range from  5.50% to 6.50% nationally , depending on property quality and location."
+  },
+  {
+    "claim_id": "c11",
+    "source_id": "student-housing-market-update-september-2026",
+    "subject": "High end of national student housing cap rate range",
+    "value": "6.50",
+    "unit": "percent",
+    "period": "September 2026",
+    "quote": "Current student housing capitalization rates generally range from  5.50% to 6.50% nationally , depending on property quality and location."
+  },
+  {
+    "claim_id": "c12",
+    "source_id": "student-housing-market-update-september-2026",
+    "subject": "Price paid by an Ares Management / The Scion Group joint venture for a 12-property, 7,578-bed portfolio",
+    "value": "910",
+    "unit": "million USD",
+    "period": "May 2026",
+    "quote": "In May 2026, a 12-property, 7,578-bed portfolio sold to a joint venture between Ares Management and The Scion Group for  $910M , or approximately $120,084 per bed."
+  },
+  {
+    "claim_id": "c13",
+    "source_id": "student-housing-market-update-september-2026",
+    "subject": "Pre-leasing rate across the Yardi 200 student housing markets",
+    "value": "89.1",
+    "unit": "percent",
+    "period": "July 2026",
+    "quote": "As of July 2026, pre-leasing across the  Yardi 200  stood at  89.1% , compared with 89.9% at the same point last year."
+  },
+  {
+    "claim_id": "c14",
+    "source_id": "student-housing-market-update-september-2026",
+    "subject": "Year-over-year student housing rent growth",
+    "value": "1.0",
+    "unit": "percent",
+    "period": "July 2026",
+    "quote": "YoY rent growth remained positive at  1.0% , although it has moderated from the stronger increases recorded in previous leasing seasons."
+  },
+  {
+    "claim_id": "c15",
+    "source_id": "kirkland-advises-core-spaces-on-close-of-1-64-billion-flagship-fund",
+    "subject": "Total capital commitments at final close of Core Spaces' flagship student housing fund",
+    "value": "1.64",
+    "unit": "billion USD",
+    "period": "May 2026",
+    "quote": "Kirkland & Ellis advised Core Spaces, a vertically integrated real estate investment manager, developer and operator, on the final close of its latest flagship fund, with approximately $1.64 billion in total capital commitments from global investors."
+  },
+  {
+    "claim_id": "c16",
+    "source_id": "portfolio-holdings-real-estate",
+    "subject": "CalSTRS market value holding in Unite Group PLC (UK student housing company)",
+    "value": "4,476",
+    "unit": "thousand USD",
+    "period": "as of 6/30/2025",
+    "quote": "UNITE GROUP PLC/THE 4,476"
+  },
+  {
+    "claim_id": "c17",
+    "source_id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "subject": "U.S. student housing property sales volume",
+    "value": "6.6",
+    "unit": "billion USD",
+    "period": "2024",
+    "quote": "Student housing property sales rebounded in 2024, increasing to $6.6 billion— with H1 2025 sales on pace to"
+  }
+]

@@ -1,0 +1,307 @@
+<title>Student Housing Capital</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column of panels; each panel = question, chart, sources. Built by build_chart.py from verified claims only. */
+:root {
+  --bg: #f6f6f3;
+  --surface: #fcfcfb;
+  --ink: #161714;
+  --ink-2: #52514e;
+  --ink-3: #7a7973;
+  --rule: #dcdbd4;
+  --grid: #e9e8e2;
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  --held: #d03b3b;
+  --font-display: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Libre Franklin", "Helvetica Neue", Arial, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121211; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --ink-3: #9a998f;
+    --rule: #33332f; --grid: #2a2a27; --s1: #3987e5; --s2: #d95926; --held: #e66767; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121211; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --ink-3: #9a998f;
+  --rule: #33332f; --grid: #2a2a27; --s1: #3987e5; --s2: #d95926; --held: #e66767; color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 880px; margin: 0 auto; padding-block: 32px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 28px; }
+header { display: grid; gap: 8px; }
+.eyebrow { font-family: var(--font-data); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(26px, 4vw, 36px); line-height: 1.15; margin: 0; text-wrap: balance; }
+.lede { color: var(--ink-2); max-width: 65ch; margin: 0; }
+.tally { font-family: var(--font-data); font-size: 13px; color: var(--ink-2); }
+section.panel { background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 20px; display: grid; gap: 14px; min-width: 0; }
+h2 { font-size: 18px; font-weight: 600; margin: 0; text-wrap: balance; }
+.q { font-family: var(--font-data); font-size: 12px; color: var(--ink-3); letter-spacing: .04em; }
+.note { color: var(--ink-2); font-size: 13.5px; margin: 0; max-width: 70ch; }
+.legend { display: flex; flex-wrap: wrap; gap: 16px; font-size: 13px; color: var(--ink-2); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.sw { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+svg { display: block; width: 100%; height: auto; overflow: visible; }
+svg text { font-family: var(--font-data); font-size: 11.5px; fill: var(--ink-2); }
+svg .val { fill: var(--ink); font-weight: 500; }
+svg .mark { cursor: pointer; }
+svg .mark:focus { outline: none; }
+svg .mark:focus-visible .hit, svg .mark:hover .hit { fill: var(--grid); }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
+.tile { border: 1px solid var(--rule); border-radius: 6px; padding: 14px; display: grid; gap: 4px; align-content: start; cursor: pointer; }
+.tile:hover, .tile:focus-visible { border-color: var(--ink-3); outline: none; }
+.tile .num { font-family: var(--font-data); font-size: 26px; font-weight: 500; font-variant-numeric: tabular-nums; }
+.tile .lbl { font-size: 13px; color: var(--ink-2); }
+.tile .per { font-family: var(--font-data); font-size: 11.5px; color: var(--ink-3); }
+.tablebox { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+th, td { text-align: left; padding: 8px 10px 8px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { font-family: var(--font-data); font-weight: 500; font-size: 11.5px; letter-spacing: .05em; text-transform: uppercase; color: var(--ink-3); }
+td.n { font-family: var(--font-data); font-variant-numeric: tabular-nums; white-space: nowrap; }
+td .quote { color: var(--ink-2); font-size: 12.5px; }
+a { color: var(--s1); }
+.pill { font-family: var(--font-data); font-size: 11px; padding: 2px 7px; border-radius: 99px; border: 1px solid currentColor; white-space: nowrap; }
+.pill.held { color: var(--held); }
+#tip { position: fixed; z-index: 10; max-width: min(360px, calc(100vw - 32px)); background: var(--surface); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 6px; padding: 10px 12px; font-size: 12.5px; box-shadow: 0 4px 18px rgb(0 0 0 / .14); pointer-events: none; }
+#tip b { font-family: var(--font-data); font-weight: 500; }
+#tip .src { color: var(--ink-3); font-size: 11.5px; margin-top: 6px; }
+details summary { cursor: pointer; font-weight: 600; }
+@media (prefers-reduced-motion: no-preference) { .tile, .hit { transition: border-color .15s, fill .15s; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Research database · student housing investor appetite</div>
+    <h1>Who is putting money into student housing</h1>
+    <p class="lede">Every number below is a claim that <code>verify.py</code> checked against the saved source: the file is unchanged, the quote is in it, and the number is in the quote. Hover or tap any mark to read the exact quote.</p>
+    <div class="tally" id="tally"></div>
+  </header>
+
+  <section class="panel" id="p-investors">
+    <div class="q">Question 1 · Which types of investors are buying</div>
+    <h2>Share of student housing investment volume by buyer type</h2>
+    <div id="investors"></div>
+    <p class="note">Cushman &amp; Wakefield reports only these slices in text. Private, REIT and other buyer shares appear only in a chart in the PDF that did not extract, so they are not here.</p>
+  </section>
+
+  <section class="panel" id="p-named">
+    <div class="q">Question 2 · Named investors and amounts</div>
+    <h2>Named capital in the sector</h2>
+    <div class="tablebox"><table id="named"></table></div>
+    <p class="note">These figures sit far apart (from $4.5 million to $1.64 billion), so they are listed rather than drawn as bars.</p>
+  </section>
+
+  <section class="panel" id="p-volume">
+    <div class="q">Question 3 · Total capital invested per year</div>
+    <h2>U.S. student housing transaction volume, $ billions</h2>
+    <div class="legend" id="volume-legend"></div>
+    <div id="volume"></div>
+    <p class="note">The two sources disagree on 2023 ($3.9B vs $5.93B), likely because they count deals differently. Both are shown rather than picking one.</p>
+  </section>
+
+  <section class="panel" id="p-caprates">
+    <div class="q">Question 4 · Returns investors accept</div>
+    <h2>Student housing cap rates</h2>
+    <div id="caprates"></div>
+  </section>
+
+  <section class="panel" id="p-fund">
+    <div class="q">Question 5 · Demand and market activity</div>
+    <h2>Leasing and recent volume</h2>
+    <div class="tiles" id="fundamentals"></div>
+  </section>
+
+  <section class="panel">
+    <h2>All claims</h2>
+    <div class="tablebox"><table id="all"></table></div>
+  </section>
+
+  <section class="panel" id="p-held">
+    <h2>Held claims (not drawn)</h2>
+    <div class="tablebox"><table id="held"></table></div>
+  </section>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+const DATA = {"claims": [{"id": "c1", "subject": "Institutional investors' share of total student housing investment volume", "value": "40", "unit": "percent", "period": "2024", "quote": "Institutional capital ticked back up in 2024 and 2025, at 40% and 35% (YTD),", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "verified", "reason": ""}, {"id": "c2", "subject": "Institutional investors' share of total student housing investment volume", "value": "35", "unit": "percent", "period": "2025 year to date", "quote": "Institutional capital ticked back up in 2024 and 2025, at 40% and 35% (YTD),", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "verified", "reason": ""}, {"id": "c3", "subject": "Cross-border investors' share of student housing deal volume", "value": "11", "unit": "percent", "period": "2025 year to date", "quote": "ticking upward at 11% of deal volume YTD in 2025.", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "verified", "reason": ""}, {"id": "c4", "subject": "U.S. student housing transaction volume", "value": "3.9", "unit": "billion USD", "period": "2023", "quote": "transactional activity in 2023 to $3.9 billion.", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "verified", "reason": ""}, {"id": "c5", "subject": "U.S. student housing property sales volume", "value": "6.6", "unit": "billion USD", "period": "2024", "quote": "Student housing property sales rebounded in 2024, increasing to $6.6 billion— with H1 2025 sales on pace to surpass last year’s volume.", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "held", "reason": "quote does not appear word for word in the source"}, {"id": "c6", "subject": "Average student housing capitalization rate in Cushman & Wakefield valuations", "value": "5.38", "unit": "percent", "period": "trailing 12 months to the 2025-2026 academic year", "quote": "Capitalization Rate (%) 6.08 5.81 5.38 5.00 4.88", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "verified", "reason": ""}, {"id": "c7", "subject": "U.S. student housing transaction volume", "value": "8.78", "unit": "billion USD", "period": "2025", "quote": "2025 volume reached $8.78 billion, a 48 percent increase over the 2023 trough of  $5.93 billion, though essentially flat versus 2024.", "source": "Walker & Dunlop Student Housing Outlook 2026", "url": "https://www.walkerdunlop.com/outlooks/student-housing-outlook-2026", "status": "verified", "reason": ""}, {"id": "c8", "subject": "U.S. student housing transaction volume (2023 trough)", "value": "5.93", "unit": "billion USD", "period": "2023", "quote": "2025 volume reached $8.78 billion, a 48 percent increase over the 2023 trough of  $5.93 billion, though essentially flat versus 2024.", "source": "Walker & Dunlop Student Housing Outlook 2026", "url": "https://www.walkerdunlop.com/outlooks/student-housing-outlook-2026", "status": "verified", "reason": ""}, {"id": "c9", "subject": "Trailing 12-month student housing transaction volume", "value": "1.49", "unit": "billion USD", "period": "trailing 12 months to 2Q26", "quote": "Trailing 12-month student housing transaction volume reached  $1.49B as of 2Q26 , representing a  22% increase from the prior quarter , although volume remained 21% below the year-ago level.", "source": "Capright Student Housing Market Update, September 2026", "url": "https://www.capright.com/student-housing-market-update-september-2026/", "status": "verified", "reason": ""}, {"id": "c10", "subject": "Low end of national student housing cap rate range", "value": "5.50", "unit": "percent", "period": "September 2026", "quote": "Current student housing capitalization rates generally range from  5.50% to 6.50% nationally , depending on property quality and location.", "source": "Capright Student Housing Market Update, September 2026", "url": "https://www.capright.com/student-housing-market-update-september-2026/", "status": "verified", "reason": ""}, {"id": "c11", "subject": "High end of national student housing cap rate range", "value": "6.50", "unit": "percent", "period": "September 2026", "quote": "Current student housing capitalization rates generally range from  5.50% to 6.50% nationally , depending on property quality and location.", "source": "Capright Student Housing Market Update, September 2026", "url": "https://www.capright.com/student-housing-market-update-september-2026/", "status": "verified", "reason": ""}, {"id": "c12", "subject": "Price paid by an Ares Management / The Scion Group joint venture for a 12-property, 7,578-bed portfolio", "value": "910", "unit": "million USD", "period": "May 2026", "quote": "In May 2026, a 12-property, 7,578-bed portfolio sold to a joint venture between Ares Management and The Scion Group for  $910M , or approximately $120,084 per bed.", "source": "Capright Student Housing Market Update, September 2026", "url": "https://www.capright.com/student-housing-market-update-september-2026/", "status": "verified", "reason": ""}, {"id": "c13", "subject": "Pre-leasing rate across the Yardi 200 student housing markets", "value": "89.1", "unit": "percent", "period": "July 2026", "quote": "As of July 2026, pre-leasing across the  Yardi 200  stood at  89.1% , compared with 89.9% at the same point last year.", "source": "Capright Student Housing Market Update, September 2026", "url": "https://www.capright.com/student-housing-market-update-september-2026/", "status": "verified", "reason": ""}, {"id": "c14", "subject": "Year-over-year student housing rent growth", "value": "1.0", "unit": "percent", "period": "July 2026", "quote": "YoY rent growth remained positive at  1.0% , although it has moderated from the stronger increases recorded in previous leasing seasons.", "source": "Capright Student Housing Market Update, September 2026", "url": "https://www.capright.com/student-housing-market-update-september-2026/", "status": "verified", "reason": ""}, {"id": "c15", "subject": "Total capital commitments at final close of Core Spaces' flagship student housing fund", "value": "1.64", "unit": "billion USD", "period": "May 2026", "quote": "Kirkland & Ellis advised Core Spaces, a vertically integrated real estate investment manager, developer and operator, on the final close of its latest flagship fund, with approximately $1.64 billion in total capital commitments from global investors.", "source": "Kirkland & Ellis press release: Kirkland Advises Core Spaces on Close of $1.64 Billion Flagship Fund", "url": "https://www.kirkland.com/news/press-release/2026/05/kirkland-advises-core-spaces-on-close-of-1-64-billion-flagship-fund", "status": "verified", "reason": ""}, {"id": "c16", "subject": "CalSTRS market value holding in Unite Group PLC (UK student housing company)", "value": "4,476", "unit": "thousand USD", "period": "as of 6/30/2025", "quote": "UNITE GROUP PLC/THE 4,476", "source": "CalSTRS investment portfolio", "url": "https://www.calstrs.com/portfolio-holdings-real-estate", "status": "verified", "reason": ""}, {"id": "c17", "subject": "U.S. student housing property sales volume", "value": "6.6", "unit": "billion USD", "period": "2024", "quote": "Student housing property sales rebounded in 2024, increasing to $6.6 billion— with H1 2025 sales on pace to", "source": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year", "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144", "status": "verified", "reason": ""}], "panels": {"volume": ["c4", "c5", "c17", "c8", "c7"], "investors": ["c1", "c2", "c3"], "caprates": ["c6", "c10", "c11"], "named": ["c15", "c12", "c16"], "fundamentals": ["c13", "c14", "c9"]}};
+const byId = Object.fromEntries(DATA.claims.map(c => [c.id, c]));
+const ok = id => byId[id] && byId[id].status === "verified";
+const verified = ids => ids.filter(ok).map(id => byId[id]);
+const num = v => parseFloat(String(v).replace(/,/g, ""));
+const esc = s => String(s).replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+const NS = "http://www.w3.org/2000/svg";
+const width = host => Math.max(340, Math.min(760, host.clientWidth || 640));
+function el(tag, attrs, parent, text) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (text != null) e.textContent = text;
+  if (parent) parent.appendChild(e);
+  return e;
+}
+const fmtVal = c => {
+  const u = c.unit;
+  if (u === "percent") return c.value + "%";
+  if (u === "billion USD") return "$" + c.value + "B";
+  if (u === "million USD") return "$" + c.value + "M";
+  if (u === "thousand USD") return "$" + c.value + "K";
+  return c.value + " " + u;
+};
+const shortSource = c => c.source.split(/[,:]/)[0].replace(/ U\.S\..*| Student Housing.*| press release.*/, "").trim();
+
+// tooltip
+const tip = document.getElementById("tip");
+function showTip(c, evt) {
+  tip.innerHTML = `<b>${esc(c.id)} · ${esc(fmtVal(c))}</b> · ${esc(c.period)}<div>“${esc(c.quote)}”</div><div class="src">${esc(c.source)}</div>`;
+  tip.hidden = false;
+  const r = evt.target.getBoundingClientRect ? evt.target.getBoundingClientRect() : null;
+  let x = evt.clientX ?? (r ? r.left + r.width / 2 : 20), y = evt.clientY ?? (r ? r.top : 20);
+  const w = tip.offsetWidth, h = tip.offsetHeight;
+  x = Math.min(Math.max(12, x + 14), window.innerWidth - w - 12);
+  y = y + 16 + h > window.innerHeight ? y - h - 12 : y + 16;
+  tip.style.left = x + "px"; tip.style.top = Math.max(12, y) + "px";
+}
+const hideTip = () => { tip.hidden = true; };
+function hook(node, c) {
+  node.setAttribute("tabindex", "0");
+  node.setAttribute("aria-label", `${c.subject}, ${c.period}: ${fmtVal(c)}`);
+  node.addEventListener("pointerenter", e => showTip(c, e));
+  node.addEventListener("pointermove", e => showTip(c, e));
+  node.addEventListener("pointerleave", hideTip);
+  node.addEventListener("focus", e => showTip(c, { target: node }));
+  node.addEventListener("blur", hideTip);
+}
+
+// Q1: horizontal bars, 0-100%
+(function () {
+  const rows = verified(DATA.panels.investors);
+  const host = document.getElementById("investors");
+  if (!rows.length) { host.textContent = "No verified claims yet."; return; }
+  const W = width(host), L = Math.min(190, W * 0.45), R = 50, rowH = 34, top = 6, H = top + rows.length * rowH + 24;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Buyer type shares" }, host);
+  const x = v => L + (v / 100) * (W - L - R);
+  [0, 25, 50, 75, 100].forEach(t => {
+    el("line", { x1: x(t), x2: x(t), y1: top, y2: H - 22, stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: x(t), y: H - 6, "text-anchor": "middle" }, svg, t + "%");
+  });
+  rows.forEach((c, i) => {
+    const y = top + i * rowH, v = num(c.value);
+    const g = el("g", { class: "mark" }, svg);
+    el("rect", { class: "hit", x: 0, y, width: W, height: rowH, fill: "transparent" }, g);
+    const who = c.subject.split(" investors")[0];
+    el("text", { x: L - 10, y: y + rowH / 2 + 4, "text-anchor": "end", style: "fill:var(--ink)" }, g, `${who}, ${c.period.replace(" year to date", " YTD")}`);
+    el("rect", { x: x(0), y: y + 8, width: x(v) - x(0), height: rowH - 16, rx: 3, fill: "var(--s1)" }, g);
+    el("text", { class: "val", x: x(v) + 6, y: y + rowH / 2 + 4 }, g, v + "%");
+    hook(g, c);
+  });
+})();
+
+// Q2: named table
+(function () {
+  const rows = verified(DATA.panels.named);
+  const t = document.getElementById("named");
+  t.innerHTML = `<tr><th>What</th><th>Amount</th><th>When</th><th>Source</th></tr>` + rows.map(c =>
+    `<tr><td>${esc(c.subject)}</td><td class="n">${esc(fmtVal(c))}</td><td>${esc(c.period)}</td><td><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.source)}</a></td></tr>`).join("");
+  [...t.querySelectorAll("tr")].slice(1).forEach((tr, i) => hook(tr, rows[i]));
+})();
+
+// Q3: grouped bars by year, one series per source
+(function () {
+  const rows = verified(DATA.panels.volume);
+  const host = document.getElementById("volume");
+  if (!rows.length) { host.textContent = "No verified claims yet."; return; }
+  const seen = new Set(), pts = [];
+  rows.forEach(c => {
+    const year = (c.period.match(/\d{4}/) || [""])[0], src = shortSource(c), key = year + "|" + src;
+    if (!seen.has(key)) { seen.add(key); pts.push({ c, year, src, v: num(c.value) }); }
+  });
+  const years = [...new Set(pts.map(p => p.year))].sort();
+  const series = [...new Set(pts.map(p => p.src))];
+  const colors = ["var(--s1)", "var(--s2)"];
+  document.getElementById("volume-legend").innerHTML = series.map((s, i) =>
+    `<span><i class="sw" style="background:${colors[i]}"></i>${esc(s)}</span>`).join("");
+  const W = width(host), H = 280, L = 40, R = 10, T = 16, B = 28;
+  const max = 10, y = v => T + (1 - v / max) * (H - T - B);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Transaction volume by year and source" }, host);
+  [0, 2, 4, 6, 8, 10].forEach(t => {
+    el("line", { x1: L, x2: W - R, y1: y(t), y2: y(t), stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: L - 8, y: y(t) + 4, "text-anchor": "end" }, svg, "$" + t);
+  });
+  const band = (W - L - R) / years.length, bw = Math.min(56, band / (series.length + 1.2));
+  years.forEach((yr, yi) => {
+    const cx = L + band * (yi + 0.5);
+    el("text", { x: cx, y: H - 8, "text-anchor": "middle", style: "fill:var(--ink)" }, svg, yr);
+    series.forEach((s, si) => {
+      const p = pts.find(p => p.year === yr && p.src === s);
+      if (!p) return;
+      const x0 = cx - (series.length * bw + (series.length - 1) * 2) / 2 + si * (bw + 2);
+      const g = el("g", { class: "mark" }, svg);
+      el("rect", { class: "hit", x: x0 - 1, y: T, width: bw + 2, height: H - T - B, fill: "transparent" }, g);
+      // bar with rounded top, square at baseline
+      const top = y(p.v), bot = y(0), r = 4;
+      el("path", { d: `M${x0},${bot} V${top + r} Q${x0},${top} ${x0 + r},${top} H${x0 + bw - r} Q${x0 + bw},${top} ${x0 + bw},${top + r} V${bot} Z`, fill: colors[si] }, g);
+      el("text", { class: "val", x: x0 + bw / 2, y: top - 6, "text-anchor": "middle" }, g, "$" + p.v);
+      hook(g, p.c);
+    });
+  });
+})();
+
+// Q4: cap rates, point and range on one axis
+(function () {
+  const rows = verified(DATA.panels.caprates);
+  const host = document.getElementById("caprates");
+  if (!rows.length) { host.textContent = "No verified claims yet."; return; }
+  const groups = {};
+  rows.forEach(c => (groups[shortSource(c)] ||= []).push(c));
+  const names = Object.keys(groups);
+  const W = width(host), L = Math.min(190, W * 0.45), R = 30, rowH = 44, T = 6, H = T + names.length * rowH + 26;
+  const lo = 4.5, hi = 7, x = v => L + (v - lo) / (hi - lo) * (W - L - R);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Cap rates by source" }, host);
+  [4.5, 5, 5.5, 6, 6.5, 7].forEach(t => {
+    el("line", { x1: x(t), x2: x(t), y1: T, y2: H - 24, stroke: "var(--grid)", "stroke-width": 1 }, svg);
+    el("text", { x: x(t), y: H - 6, "text-anchor": "middle" }, svg, t.toFixed(1) + "%");
+  });
+  names.forEach((n, i) => {
+    const cy = T + i * rowH + rowH / 2, cs = groups[n];
+    el("text", { x: L - 10, y: cy - 2, "text-anchor": "end", style: "fill:var(--ink)" }, svg, n);
+    el("text", { x: L - 10, y: cy + 13, "text-anchor": "end", style: "font-size:11px" }, svg, cs.length > 1 ? "national range" : "average");
+    if (cs.length > 1) {
+      const vs = cs.map(c => num(c.value)), a = Math.min(...vs), b = Math.max(...vs);
+      el("line", { x1: x(a), x2: x(b), y1: cy, y2: cy, stroke: "var(--s1)", "stroke-width": 6, "stroke-linecap": "round", opacity: 0.45 }, svg);
+    }
+    cs.forEach(c => {
+      const v = num(c.value), g = el("g", { class: "mark" }, svg);
+      el("circle", { class: "hit", cx: x(v), cy, r: 14, fill: "transparent" }, g);
+      el("circle", { cx: x(v), cy, r: 6, fill: "var(--s1)", stroke: "var(--surface)", "stroke-width": 2 }, g);
+      el("text", { class: "val", x: x(v), y: cy - 12, "text-anchor": "middle" }, g, c.value + "%");
+      hook(g, c);
+    });
+  });
+})();
+
+// Q5: stat tiles
+(function () {
+  const rows = verified(DATA.panels.fundamentals);
+  document.getElementById("fundamentals").innerHTML = rows.map(c =>
+    `<div class="tile"><div class="num">${esc(fmtVal(c))}</div><div class="lbl">${esc(c.subject)}</div><div class="per">${esc(c.period)} · ${esc(shortSource(c))}</div></div>`).join("");
+  [...document.querySelectorAll("#fundamentals .tile")].forEach((t, i) => hook(t, rows[i]));
+})();
+
+// tables
+(function () {
+  const all = DATA.claims, held = all.filter(c => c.status !== "verified");
+  document.getElementById("tally").textContent = `${all.length - held.length} verified claims drawn · ${held.length} held · ${new Set(all.map(c => c.source)).size} sources`;
+  document.getElementById("all").innerHTML = `<tr><th>ID</th><th>Claim</th><th>Value</th><th>Source</th></tr>` + all.filter(c => c.status === "verified").map(c =>
+    `<tr><td class="n">${esc(c.id)}</td><td>${esc(c.subject)} <span class="q">(${esc(c.period)})</span><div class="quote">“${esc(c.quote)}”</div></td><td class="n">${esc(fmtVal(c))}</td><td><a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.source)}</a></td></tr>`).join("");
+  const ht = document.getElementById("held");
+  if (!held.length) { document.getElementById("p-held").hidden = true; return; }
+  ht.innerHTML = `<tr><th>ID</th><th>Claim</th><th>Reason</th></tr>` + held.map(c =>
+    `<tr><td class="n">${esc(c.id)}</td><td>${esc(c.subject)} · ${esc(fmtVal(c))} <span class="q">(${esc(c.period)})</span></td><td><span class="pill held">held</span> ${esc(c.reason)}</td></tr>`).join("");
+})();
+</script>

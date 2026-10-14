@@ -1,0 +1,2837 @@
+                      Agenda Item 6b, Attachment 1, Page 1 of 62
+
+
+
+
+Trust Level Review
+As of June 30, 2026
+                                              Agenda Item 6b, Attachment 1, Page 2 of 62
+
+
+
+
+Contents
+
+I.         CIO Investment Perspective                                                      3
+
+II.        PERF Summary                                                                    4
+
+III.       Performance Tables                                                              5
+
+IV.        Markets and Economy                                                           11
+
+V.         PERF Allocation                                                               12
+
+VI.        PERF Performance Detail                                                       20
+
+VII.       PERF Risk Detail                                                              24
+
+VIII.      Program Overview                                                              38
+
+IX.        Operational Highlights                                                        51
+
+
+
+Appendices
+
+     Appendix 1 PERF Benchmarks                                                          53
+
+     Appendix 2 Affiliate Funds’ Benchmarks                                              54
+
+     Appendix 3 Definitions                                                              57
+
+
+
+
+                                                               Trust Level Report September 2026
+                                                                                      Page 2 of 62
+                                                                Agenda Item 6b, Attachment 1, Page 3 of 62
+
+Section 1: CIO Investment Perspective
+Year in Review and Path Ahead
+Fiscal Year (FY) 2025-26 was a significant year for the CalPERS investment portfolio,
+reflecting strong performance and meaningful progress in positioning the system for
+the future. It also marked the culmination of our work under the Strategic Asset
+Allocation (SAA) framework and preparation for our future in a Total Portfolio
+                                                                                      Stephen Gilmore,
+Approach (TPA).
+                                                                                       Chief Investment Officer
+
+The Public Employees’ Retirement Fund (PERF) earned a +14.8% return for the fiscal year ending June
+30, 2026, a strong result driven in large measure by our Global Public Equity and Private Equity
+portfolios, which returned +24.1% and +17%, respectively. These results reflect several important
+factors: strong equity markets, excellent relative performance from our private market investments,
+and solid contributions from a very capable investment team. The fiscal year’s performance helped
+increase our funded ratio to 85%, while total fund annualized returns for the five-, 10-, and 20-year
+periods now exceed the 6.8% discount rate.
+
+This fiscal year also marked an important milestone for the future governance and management of
+the portfolio. Following significant collaboration, engagement, and education during the most recent
+Asset Liability Management cycle, the CalPERS Board of Administration approved the Total Portfolio
+Approach in November, setting the stage for implementation on July 1, 2026.
+
+TPA builds on our successes under SAA by providing greater flexibility to evaluate investment
+strategies based on their potential benefit to the entire fund, rather than within the confines of a
+single asset class. It also strengthens the transparency of how we measure performance and value
+creation. The portfolio will be judged against a simple reference portfolio of 75% global equities and
+25% U.S. Treasury bonds, providing a clear measure of whether our investment decisions are adding
+value for CalPERS members and beneficiaries.
+
+The team and I spent a significant amount of time in FY 2025-26 preparing for the transition to TPA.
+This included strengthening our talent and capabilities, advancing the modernization of our data and
+technology platforms, embedding a collaborative total fund mindset across the Investment Office,
+and ensuring our sustainable investments strategy is well-integrated into the total portfolio. This
+work will remain ongoing as we continue building the capabilities necessary to fully realize the
+benefits of TPA.
+
+This report reflects both the PERF’s performance and risk during FY 2025-26 and the transition
+underway. Because the PERF was managed under SAA through June 30, most metrics presented here
+reflect that framework. We have also introduced select TPA-specific metrics to provide an early view
+of how the PERF’s performance, risk, and value creation will be measured and reported going
+forward.
+
+Fiscal Year 2025-26 saw several notable achievements for CalPERS: strong returns, improved funded
+ratio, and the Board’s approval of an investment approach designed to position the portfolio for
+long-term success.
+
+                                                                                    Trust Level Report September 2026
+                                                                                                           Page 3 of 62
+                                                                                        Agenda Item 6b, Attachment 1, Page 4 of 62
+
+ Section II. PERF Summary
+ As of June 30, 2026
+ Public Employees’ Retirement Fund (PERF) Metrics
+
+    PERF Performance
+       Total Assets                    20-Yr Total Return                10-Yr Total Return               5-Yr Total Return
+       Current: $635.4B                Current: +6.8%                    Current: +8.6%                   Current: +6.8%
+       Data as of 06/30/26             Data as of 06/30/26               Data as of 06/30/26              Data as of 06/30/26
+
+
+
+
+       1-Yr Total Return               FYTD Total Return                 QTD Total Return                 5-Year Total Return
+       Current: +14.8%                 Current: +14.8%                   Current: +6.4%                   Ref Portfolio: *
+       Data as of 06/30/26             Data as of 06/30/26
+                                                                                                          Value Add: *
+                                                                         Data as of 06/30/26
+                                                                                                          Data will begin 07/01/26
+
+
+
+
+       FYTD Total Return               CEM 5-Yr Net Value                           Estimated Funded
+       Ref Portfolio: *                Added 1                                      Status
+       Value Add: *                                                                 Current: 85.1%
+                                       Below US Peer median
+       Data will begin 07/01/26
+                                       Data as of 09/30/25 | Updated Annually       Data as of 06/30/26
+
+
+
+     Governance
+       Policy                          Equity Equivalent Exposure                                Active Risk
+       Exceptions                      Operating Range: 75% +/-5%                                Operating Range: 250-350 bps
+       Current: 3                      Current: 74.6%                                            Current: 235 bps
+       Data as of 06/30/26             Data as of 06/30/26                                       Data as of 06/30/26
+
+
+
+     Market Risk, Liquidity, and Leverage
+       Chance Funded Status < 70%                            Forecasted Volatility                   Sustainability Climate Solutions
+       Over 5-year period 1                                                                          $100 bn by 2030 1
+       Current: 39%                                          Current: 13.9%                          Current Allocation: $59.7 bn
+       Data as of 06/30/25 | Updated Annually                Data as of 06/30/26                     Data as of 06/30/25 | Updated Annually
+
+
+
+       Surplus Accessible                  Total Fund Leverage
+                                                                                                   On Target
+       Liquidity Ratio                     Current Limit 20%2
+                                                                                                   At Risk
+       Current: 3.8x                       Current: 11.2%                                          Off Target
+       Data as of 06/30/26                 Data as of 06/30/26                                     Threshold Not Applicable
+
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr unless noted as cumulative.
+1 Finalized data not yet available, dashboard will be updated for the November Investment Committee
+
+2 Total Fund Leverage measures financing and derivatives activities that create recourse to PERF. The value includes 8.8% total
+fund financing (allocation related) and an additional 2.4% from asset class-level positioning                 Trust Level Report September 2026
+                                                                                                                                     Page 4 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 5 of 62
+
+Section III. Performance Tables
+As of June 30, 2026
+PERF Returns
+  Total PERF fiscal year performance reflects strong growth assets returns
+• PERF fiscal year performance was +14.8% vs. a benchmark return of +13.7%, resulting in an excess
+  return of +113 basis points
+• Public Equity was the top performing asset class for the fiscal year with a +24.1% return
+• PERF fiscal year excess performance was driven primarily by Public Equity, Real Assets and Private
+  Debt
+                          End Value
+                             (B)             20-Yr           10-Yr            5-Yr            1-Yr             FYTD             1-Qtr
+Total PERF                 $ 635.4              6.8%            8.6%            6.8%           14.8%            14.8%              6.4%
+ Benchmark                                      7.3%            8.3%            6.2%           13.7%            13.7%              4.4%
+ Excess                                      (45) bps         24 bps           59 bps         113 bps          113 bps          193 bps
+ Cumulative Value Added (B)                $     (8.0)     $    13.0        $    15.0       $     6.3        $     6.3        $    11.5
+
+Public Equity         $ 241.8                   8.6%           12.6%           11.1%             24.1%            24.1%           14.9%
+  Benchmark                                     8.6%           12.4%           10.6%             22.5%            22.5%           14.1%
+  Excess                                      (5) bps          23 bps          50 bps           168 bps          168 bps          77 bps
+  Cumulative Value Added (B)              $       3.2      $      4.8       $      5.0      $       3.2      $       3.2      $       1.6
+Income                $ 178.0                   4.6%            2.2%           (0.0)%             5.8%             5.8%             1.9%
+  Benchmark                                     4.1%            1.8%           (0.1)%             5.4%             5.4%             1.8%
+  Excess                                       49 bps          33 bps          12 bps            41 bps           41 bps           9 bps
+  Cumulative Value Added (B)              $       5.3      $      3.2       $      1.1      $       0.7      $       0.7      $       0.2
+Private Equity        $ 123.6                  11.6%           13.1%           11.9%             17.0%            17.0%             2.3%
+  Benchmark                                    13.2%           13.7%           11.1%             22.4%            22.4%           (2.5)%
+  Excess                                    (160) bps        (63) bps          79 bps         (547) bps        (547) bps        475 bps
+  Cumulative Value Added (B)              $ (16.6)         $     (8.3)      $     (4.6)     $      (4.9)     $      (4.9)     $       5.9
+Real Assets           $ 79.9                    2.2%            4.6%             4.1%             6.3%             6.3%             0.6%
+  Benchmark                                     5.7%            3.7%             2.4%             3.1%             3.1%             1.0%
+  Excess                                    (350) bps          94 bps         170 bps           318 bps          318 bps        (46) bps
+  Cumulative Value Added (B)              $ (10.1)         $      5.0       $      4.7      $       2.3      $       2.3      $      (0.4)
+Private Debt¹         $ 27.5                         -               -                -          11.0%            11.0%             2.6%
+  Benchmark                                          -               -                -           7.2%             7.2%           (0.5)%
+  Excess                                             -               -                -         379 bps          379 bps        302 bps
+  Cumulative Value Added (B)                         -               -                -     $       0.9      $       0.9      $       0.8
+Net Financing         $ (32.8)                       -               -                -                -                -                -
+Other Trust Level     $ 17.5                         -               -                -                -                -                -
+
+Exhibit 3.1
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr unless noted as cumulative.
+Private asset performance reflects prior quarter financial reporting received through 6/30/2026.
+1 Performance represents the Private Debt segment, which incepted 7/1/2022. Prior to 7/1/2022, Private Debt was part of
+                                                                                                         Trust Level Report September 2026
+Opportunistic Strategies.                                                                                                       Page 5 of 62
+                                                                                Agenda Item 6b, Attachment 1, Page 6 of 62
+
+Section III. Performance Tables
+As of June 30, 2026
+PERF Capital Market Returns
+ Fiscal Year performance was positive across all Capital Markets
+• Cap Weighted Equities had a strong fiscal year performance with a return of +25.8%
+• In total return terms, Cap Weighted Equities has been the highest performing capital market
+  segment across time periods, capturing returns from broad global equity markets
+• In relative terms, all segments added value over the fiscal year while Treasury matched its
+  benchmark return
+
+                        End Value
+                           (B)            20-Yr           10-Yr            5-Yr            1-Yr            FYTD              1-Qtr
+Cap Weighted             $ 235.2             8.9%          13.4%             11.6%          25.8%           25.8%              15.5%
+  Benchmark                                  9.0%           13.1%            11.0%           24.2%           24.2%             14.9%
+  Excess                                   (5) bps         24 bps           52 bps         156 bps         156 bps             58 bps
+  Cumulative Value Added (B)            $      2.4      $      4.0       $      4.3      $      2.7      $      2.7        $      1.1
+Factor Weighted       $ 6.6                       -               -           7.3%          10.0%           10.0%               5.8%
+  Benchmark                                       -               -           6.7%            7.4%            7.4%              3.4%
+  Excess                                          -               -         57 bps         255 bps         255 bps           237 bps
+  Cumulative Value Added (B)                      -               -      $      0.6      $      0.5      $      0.5        $      0.4
+Treasury              $ 52.8                      -        (0.6)%           (4.1)%            2.8%            2.8%              0.6%
+  Benchmark                                       -        (0.6)%           (4.1)%            2.8%            2.8%              0.6%
+  Excess                                          -        (0) bps            0 bps         (0) bps         (0) bps             0 bps
+  Cumulative Value Added (B)                      -     $     (0.2)      $      0.0      $     (0.0)     $     (0.0)       $      0.0
+MBS                   $ 32.0                      -          1.9%             0.9%            6.2%            6.2%              0.7%
+  Benchmark                                       -          1.5%             0.6%            5.1%            5.1%              0.6%
+  Excess                                          -        43 bps           34 bps         104 bps         104 bps             15 bps
+  Cumulative Value Added (B)                      -     $      0.9       $      0.5      $      0.3      $      0.3        $      0.0
+IG Corporates         $ 28.8                 5.5%            2.8%           (1.3)%            5.0%            5.0%              2.0%
+  Benchmark                                  5.1%            2.4%           (1.3)%            4.9%            4.9%              2.0%
+  Excess                                   47 bps          43 bps           (4) bps           8 bps           8 bps           (3) bps
+  Cumulative Value Added (B)            $      1.2      $      0.7       $     (0.0)     $      0.0      $      0.0        $     (0.0)
+High Yield            $ 32.1                      -               -           4.1%            6.1%            6.1%              2.3%
+  Benchmark                                       -               -           4.1%            6.0%            6.0%              2.4%
+  Excess                                          -               -           8 bps           7 bps           7 bps          (15) bps
+  Cumulative Value Added (B)                      -               -      $      0.1      $      0.0      $      0.0        $     (0.0)
+EM Sovereign Bonds $ 32.4                         -               -                -        10.6%           10.6%               4.5%
+  Benchmark                                       -               -                -          9.5%            9.5%              3.9%
+  Excess                                          -               -                -       113 bps         113 bps             56 bps
+  Cumulative Value Added (B)                      -               -                -     $      0.3      $      0.3        $      0.2
+Exhibit 3.2
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr unless noted as cumulative.
+
+                                                                                                         Trust Level Report September 2026
+                                                                                                                                Page 6 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 7 of 62
+
+Section III. Performance Tables
+As of June 30, 2026
+PERF Private Market Returns
+
+ Private asset returns largely benefited from favorable conditions for risk assets
+• Private Equity and Private Debt had the highest private market fiscal year returns at +17.0% and
+  +11.0% respectively
+
+
+                          End Value
+                             (B)            20-Yr             10-Yr           5-Yr               1-Yr            FYTD            1-Qtr
+Private Equity             $ 123.6            11.6%             13.1%          11.9%              17.0%            17.0%             2.3%
+  Benchmark                                   13.2%             13.7%          11.1%              22.4%            22.4%           (2.5)%
+  Excess                                   (160) bps          (63) bps         79 bps          (547) bps        (547) bps         475 bps
+  Cumulative Value Added (B)              $ (16.6)         $      (8.3)     $    (4.6)       $       (4.9)    $       (4.9)   $        5.9
+Private Debt¹         $ 27.5                       -                  -              -            11.0%            11.0%             2.6%
+  Benchmark                                        -                  -              -              7.2%             7.2%          (0.5)%
+  Excess                                           -                  -              -           379 bps          379 bps         302 bps
+  Cumulative Value Added (B)                       -                 -              -        $        0.9     $        0.9    $        0.8
+Infrastructure        $ 24.9                       -             9.0%           8.4%                9.4%             9.4%            1.0%
+  Benchmark                                        -             3.6%           2.4%                3.1%             3.1%            1.0%
+  Excess                                           -           539 bps        609 bps            627 bps          627 bps          (6) bps
+  Cumulative Value Added (B)                       -       $       6.3      $     5.4        $        1.3     $        1.3    $       (0.0)
+Real Estate           $ 54.8                   1.6%              3.8%           2.6%                5.1%             5.1%            0.4%
+  Benchmark                                    6.2%              3.8%           2.4%                3.1%             3.1%            1.0%
+  Excess                                   (456) bps             4 bps         26 bps            194 bps          194 bps        (62) bps
+  Cumulative Value Added (B)              $ (16.2)         $      (0.9)     $    (0.6)       $        1.0     $        1.0    $       (0.4)
+Forestland            $ 0.2                        -             1.1%           3.7%              (9.0)%           (9.0)%          (1.7)%
+  Benchmark                                        -             3.1%           2.4%                3.1%             3.1%            1.0%
+  Excess                                           -         (195) bps        139 bps       (1,216) bps      (1,216) bps        (274) bps
+  Cumulative Value Added (B)                       -       $      (0.4)     $    (0.0)       $       (0.0)    $       (0.0)   $       (0.0)
+
+  Exhibit 3.3
+
+
+
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr unless noted as cumulative. Private
+asset performance reflects prior quarter financial reporting received through 6/30/2026.
+1 Performance represents the Private Debt segment, which incepted 7/1/2022. Prior to 7/1/2022, Private Debt was
+                                                                                                         Trust    part
+                                                                                                               Level   of Opportunistic
+                                                                                                                     Report September 2026
+Strategies.                                                                                                                     Page 7 of 62
+                                                                                Agenda Item 6b, Attachment 1, Page 8 of 62
+
+Section III. Performance Tables
+As of June 30, 2026
+Affiliate Investments Returns
+ Affiliate returns were in line with respective asset allocations
+• Affiliate funds are largely passively managed strategies, with realized returns and volatility in line
+  with the assigned asset allocation and benchmarks
+
+       Defined Benefit, Health,
+           and OPEB Plans                      End Value (M)       20-Yr       10-Yr       5-Yr      1-Yr        FYTD         1-Qtr
+Judges' Retirement Fund                         $     47.6           1.9%        2.5%        3.8%      4.1%        4.1%          0.9%
+  Benchmark                                                          1.7%        2.3%        3.5%      3.8%        3.8%          0.9%
+  Excess                                                           17 bps      19 bps      28 bps    29 bps      29 bps         6 bps
+Judges' Retirement System Fund II                $ 3,463.2            6.9%        8.2%       6.1%     16.2%       16.2%          8.4%
+  Benchmark                                                           6.8%        7.9%       5.8%     15.9%       15.9%          8.3%
+  Excess                                                            12 bps      31 bps     26 bps    28 bps      28 bps         5 bps
+Legislators' Retirement System Fund              $      90.0          5.3%        4.5%       1.8%     7.6%     7.6%             2.5%
+ Benchmark                                                            5.1%        4.4%       1.8%     7.7%     7.7%             2.6%
+ Excess                                                             17 bps      13 bps     (0) bps (10) bps (10) bps          (7) bps
+Health Care Fund                                 $      80.3          3.3%        1.5%      (0.1)%     4.1%        4.1%          0.9%
+ Benchmark                                                            3.1%        1.4%      (0.2)%     3.8%        3.8%          0.9%
+ Excess                                                             13 bps       4 bps       5 bps   21 bps      21 bps         3 bps
+Long-Term Care Fund                              $ 5,058.4            4.8%       4.7%     3.4%       10.8%        10.8%         5.6%
+ Benchmark                                                            4.8%       4.8%     3.6%       10.8%        10.8%         5.6%
+ Excess                                                              5 bps     (3) bps (12) bps      4 bps        4 bps       (1) bps
+CERBT Strategy 1 Fund                            $ 26,348.8                -      8.5%       6.2%     17.3%       17.3%          9.2%
+ Benchmark                                                                 -      8.2%       5.9%     17.1%       17.1%          9.1%
+ Excess                                                                    -    29 bps     22 bps    28 bps      28 bps         5 bps
+CERBT Strategy 2 Fund                            $ 2,321.5                 -      6.6%       4.3%     14.2%       14.2%          6.9%
+ Benchmark                                                                 -      6.4%       4.2%     14.0%       14.0%          6.9%
+ Excess                                                                    -    23 bps     14 bps    19 bps      19 bps         3 bps
+CERBT Strategy 3 Fund                            $ 1,175.3                 -      5.2%        3.3%    11.7%       11.7%          5.2%
+ Benchmark                                                                 -      5.0%        3.2%    11.6%       11.6%          5.2%
+ Excess                                                                    -    18 bps       9 bps   11 bps      11 bps         1 bps
+CEPPT Strategy 1 Fund                            $    289.7                -           -     4.5%     12.7%       12.7%          7.1%
+ Benchmark                                                                 -           -     4.4%     12.5%       12.5%          7.1%
+ Excess                                                                    -           -   10 bps    15 bps      15 bps         4 bps
+CEPPT Strategy 2 Fund                            $    100.1                -           -      2.7%     8.9%         8.9%         4.4%
+ Benchmark                                                                 -           -      2.7%     8.8%         8.8%         4.4%
+ Excess                                                                    -           -     3 bps    9 bps        9 bps        2 bps
+
+ Exhibit 3.4
+
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr.     Trust Level Report September 2026
+                                                                                                                             Page 8 of 62
+                                                                             Agenda Item 6b, Attachment 1, Page 9 of 62
+
+Section III. Performance Tables
+As of June 30, 2026
+Affiliate Investments Returns
+ Target Date Fund returns were in line with respective asset allocations
+• 1-Quarter excess reflects a valuation timing difference relative to the benchmark
+
+      Supplemental Income Plans
+            (457/SCP Plan)                   End Value (M)       20-Yr       10-Yr      5-Yr        1-Yr        FYTD    1-Qtr
+Target Income Fund                            $ 198.6                    -     5.3%       4.2%       10.9%       10.9%    4.9%
+  Benchmark                                                              -     5.2%       4.2%       10.8%       10.8%    5.1%
+  Excess                                                                 -   11 bps      7 bps       8 bps       8 bps (20) bps
+Target 2020 Fund                               $     180.6               -     6.1%       4.8%       11.5%       11.5%    5.2%
+  Benchmark                                                              -     6.0%       4.7%       11.4%       11.4%    5.4%
+  Excess                                                                 -   12 bps      8 bps       9 bps       9 bps (21) bps
+Target 2025 Fund                               $     260.7               -     7.6%       6.1%       14.1%       14.1%    7.0%
+  Benchmark                                                              -     7.4%       6.0%       14.0%       14.0%    7.3%
+  Excess                                                                 -   12 bps      9 bps      11 bps      11 bps (29) bps
+Target 2030 Fund                               $     349.1               -     8.7%       7.3%       16.5%       16.5%    8.7%
+  Benchmark                                                              -     8.6%       7.2%       16.4%       16.4%    9.1%
+  Excess                                                                 -    9 bps     11 bps      12 bps      12 bps (39) bps
+Target 2035 Fund                               $     284.1               -     9.9%       8.5%       18.8%       18.8%   10.2%
+  Benchmark                                                              -     9.8%       8.4%       18.7%       18.7%   10.7%
+  Excess                                                                 -   10 bps     12 bps      15 bps      15 bps (47) bps
+Target 2040 Fund                               $     279.3               -    11.2%       9.8%       21.6%       21.6%   12.1%
+  Benchmark                                                              -    11.1%       9.7%       21.4%       21.4%   12.7%
+  Excess                                                                 -   10 bps     13 bps      17 bps      17 bps (58) bps
+Target 2045 Fund                               $     190.8               -    11.9%      10.5%       23.4%       23.4%   13.3%
+  Benchmark                                                              -    11.8%      10.4%       23.2%       23.2%   14.0%
+  Excess                                                                 -   10 bps     14 bps      18 bps      18 bps (66) bps
+Target 2050 Fund                               $     126.6               -    11.9%      10.5%       23.4%       23.4%   13.3%
+  Benchmark                                                              -    11.8%      10.4%       23.2%       23.2%   14.0%
+  Excess                                                                 -   10 bps     14 bps      18 bps      18 bps (66) bps
+Target 2055 Fund                               $      55.1               -    11.9%      10.5%       23.4%       23.4%   13.3%
+  Benchmark                                                              -    11.8%      10.4%       23.2%       23.2%   14.0%
+  Excess                                                                 -    9 bps     14 bps      18 bps      18 bps (66) bps
+Target 2060 Fund¹                              $      24.5               -         -     10.5%       23.4%       23.4%   13.3%
+  Benchmark                                                              -         -     10.4%       23.2%       23.2%   14.0%
+  Excess                                                                 -         -    14 bps      18 bps      18 bps (66) bps
+Target 2065 Fund¹                              $      11.8               -         -          -      23.4%       23.4%   13.3%
+ Benchmark                                                               -         -          -      23.2%       23.2%   14.0%
+ Excess                                                                  -         -          -     18 bps      18 bps (66) bps
+Exhibit 3.5
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr.    Trust Level Report September 2026
+1 Longer-term performance not available; 2060 Fund Incepted Oct 2018; 2065 Fund Incepted Nov 2022
+                                                                                                                            Page 9 of 62
+                                                                               Agenda Item 6b, Attachment 1, Page 10 of 62
+
+Section III. Performance Tables
+As of June 30, 2026
+Affiliate Investments Returns
+ Core Fund returns were in line with benchmarks
+• Core Funds closely track their respective benchmarks
+• 1-Quarter excess in ex-US equities (Global All Cap) reflects a valuation timing difference relative to
+  its benchmark
+      Supplemental Income Plans
+         (457/SCP Plan) (cont.)                End Value (M)       20-Yr       10-Yr       5-Yr      1-Yr        FYTD         1-Qtr
+SIP STIF Core                                   $ 115.6                    -     2.6%        3.8%      4.1%        4.1%          1.0%
+  Benchmark                                                                -     2.3%        3.5%      3.8%        3.8%          0.9%
+  Excess                                                                   -   22 bps      29 bps    29 bps      29 bps         7 bps
+SIP US Short Term Bond Core                      $      43.3               -     1.9%        2.1%      3.1%        3.1%         0.5%
+  Benchmark                                                                -     2.0%        2.1%      3.1%        3.1%         0.5%
+  Excess                                                                   -   (5) bps     (2) bps   (4) bps     (4) bps      (1) bps
+SIP US Bond Core                                 $      54.2               -      1.6%        0.1%     3.8%        3.8%          0.7%
+  Benchmark                                                                -      1.5%        0.1%     3.8%        3.8%          0.7%
+  Excess                                                                   -     1 bps       0 bps   (1) bps     (1) bps        0 bps
+SIP Real Asset Core                              $      26.4               -      7.7%        9.1%    21.9%       21.9%        (2.0)%
+  Benchmark                                                                -      7.7%        9.1%    21.8%       21.8%        (2.0)%
+  Excess                                                                   -     2 bps       1 bps   12 bps      12 bps         1 bps
+SIP Russell All Cap Core                         $    994.6                -    15.1%       12.3%     22.8%       22.8%        15.4%
+  Benchmark                                                                -    15.1%       12.3%     22.8%       22.8%        15.4%
+  Excess                                                                   -    1 bps       4 bps    (0) bps     (0) bps      (0) bps
+SIP Global All Cap EX-US                         $    112.8                -    10.0%        8.7%     27.0%       27.0%    12.0%
+  Benchmark                                                                -     9.8%        8.4%     26.6%       26.6%    13.8%
+  Excess                                                                   -   19 bps      30 bps    48 bps      48 bps (186) bps
+Exhibit 3.6
+
+
+
+
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr
+                                                                                                      Trust Level Report September 2026
+                                                                                                                            Page 10 of 62
+                                                             Agenda Item 6b, Attachment 1, Page 11 of 62
+
+Section IV. Markets and Economy
+As of June 30, 2026
+Asset Returns and Economic Drivers
+  Historical performance and drivers over Q2 2026
+Global risk assets weakened in March in response to the Iranian conflict but subsequently delivered
+strong performances in the second quarter of 2026 led by emerging markets – specifically technology-
+concentrated markets, and US technology sectors. In addition, US credit spreads narrowed on robust
+corporate earnings and concerns around the longevity of software companies were short-lived. The
+broad theme behind these moves was one where investors gained confidence that the capex cycle
+supporting the build-out of AI and its related infrastructure is a persistent (secular) trend and broadly
+unaffected by the conflict in the Middle East.
+Global bond markets, including the US, did not have a clear trend in the second quarter although
+ended in positive territory. The shifting returns reflected financial market participants re-evaluating
+the impact of energy price rises and its volatility on inflation and growth, assessing the new Federal
+Reserve Chair’s approach to US monetary policy, and the fiscal sustainability risk of selected countries.
+
+ Themes and current conditions
+Analysts’ global baseline real GDP outlooks expect some modest slowing from the energy shock
+through mid-2026 before growth is expected to stabilize and recover into 2027. According to the IMF,
+global real economic activity is expected to grow 3.0% over 2026, with the US expected to grow 2.3%.
+Global growth remains supported by continued US momentum in AI-driven capex spending and
+resilient consumer spending, while other large country contributors to global GDP are anticipated to
+grow modestly.
+Market participants remain constructive on risk assets; earnings expectations continue to be revised
+up with an anticipation of some broadening in earnings growth beyond the technology companies,
+despite some central banks raising short-dated interest rates cautiously. Easy financial conditions and
+strong corporate and household balance sheets point to an elongation of the business cycle if these
+trends continue, supported by non-US economies continuing to rebound from recent lows.
+
+ Outlook
+The global economy is in the midst of a sustained period of realignment – both economically and
+politically. Global fragmentation, national security and rising autarkic leanings point to a more
+uncertain environment. While news flow and economic outcomes have been variable, the negative
+impact on asset returns so far have remained relatively short-lived. Greater uncertainty suggests risk
+premiums could reprice higher but to date this has been balanced by easy financial conditions,
+increases in investment in AI and global defense spending, and, relatedly, US equity outperformance.
+Looking forward, the downside risks are widely discussed but the catalyst to realize these downside
+risks is unclear. Absent a material negative shock, positive real economic growth increases real rates,
+which bodes well for asset returns more broadly. In a world of greater uncertainty and rapidly
+changing information, a long-term perspective and diversification remain key to support the resilience
+and performance of the Fund.
+                                                                                  Trust Level Report September 2026
+                                                                                                        Page 11 of 62
+                                                                              Agenda Item 6b, Attachment 1, Page 12 of 62
+
+Section V. PERF Allocation
+As of June 30, 2026
+Portfolio Allocation
+ TPA increases transparency on active management
+
+Asset Allocation
+• PERF continues to build active management in public assets and drive net positive deployment into
+  private asset classes
+• Significant growth in Active Equites includes transition of SAA Factor Weighted segment to active
+  management
+• Private asset growth as % of portfolio was somewhat muted by very strong public equity returns
+
+
+
+                                                  Current Allocation      06/30/25 Allocation
+                                                                         Series3
+                                                                                             13.8%
+               Active Public Equity                                      20.4%
+                                                                                                         22.4%
+               Active Fixed Income                                       19.7%
+                                                                                                 17.7%
+                      Private Equity                                     19.4%
+                                                                                      9.3%
+                         Real Estate                                     8.6%
+                                                                              3.8%
+                      Infrastructure                                     3.9%
+                                                                              3.8%
+                       Private Debt                                      4.3%
+                                                                         2.2%
+         Balance Sheet & LLER*                                                       5.9%
+                                                                       0.0%
+                                Other                                         0.6%
+                                                                                                             25.1%
+              Indexed Public Equity                                      17.6%
+                                                                                     7.9%
+                            Treasury                                     8.3%
+                                                             (6.0)%
+              Financing & Liquidity                 (8.8)%
+
+
+                                      (20)%           (10)%            0%              10%           20%              30%
+Exhibit 5.1
+Data source: CalPERS and Aladdin
+                                                                                                     Trust Level Report September 2026
+*Low Liquidity Enhanced Return (LLER) Portfolio                                                                            Page 12 of 62
+                                                                     Agenda Item 6b, Attachment 1, Page 13 of 62
+
+Section V. PERF Allocation
+Portfolio Allocation
+ Allocations remained within SAA policy bands for trailing period
+Interim Targets and Policy Bands
+• Under the Strategic Asset Allocation, the Board’s General Pension Consultant, in consultation with
+  the Investment Committee and staff, established Interim Allocation Targets to roughly reflect
+  expected pacing towards the long-term Strategic Asset Allocation (SAA)
+• The chart below shows positioning versus interim targets as of June 30, 2026, and is shown to close
+  out reporting under the SAA framework
+
+
+
+
+                                 Allocation vs Interim Target            Policy Band
+          Public Equity                                     (1.9%)
+
+                Income                                      (1.1%)
+
+        Private Equity                                               3.9%
+
+            Real Assets                                     (2.5%)
+
+          Private Debt                                      (0.2%)
+
+                          (8%)   (6%)      (4%)      (2%)        0%         2%         4%           6%            8%
+
+        Exhibit 5.2
+
+
+
+
+                                                                                            Trust Level Report September 2026
+                                                                                                                  Page 13 of 62
+                                                            Agenda Item 6b, Attachment 1, Page 14 of 62
+
+Section V. PERF Allocation
+Key Constraints and Tolerances
+ Active Risk is aligned with expectations
+
+Active Risk
+• Active Risk is a measure of the degree to which PERF positioning differs from that of the Reference
+  Portfolio (RP). The metric integrates information about positioning (e.g. allocation weights) with
+  information about the nature and interaction of the underlying assets (risk)
+• Higher levels of active risk indicate that the pattern of performance of the PERF can be expected to
+  deviate more from that of the Reference Portfolio. Higher levels of Active Risk do not necessarily
+  imply higher absolute risk – in fact much of PERF’s Active Risk is a result of holding diversifying
+  positions across various asset classes that reduce the public-equity centric concentration of the RP
+• The Current Portfolio’s Active Risk relative to the Reference Portfolio (RP) assets is below the
+  expected operating range of 250-350 basis points. This value is expected to increase into the range
+  over the coming years with continued deployment into active strategies
+
+
+
+
+ Exhibit 5.3
+  Data source: CalPERS risk model
+
+
+
+
+                                                                                Trust Level Report September 2026
+                                                                                                      Page 14 of 62
+                                                            Agenda Item 6b, Attachment 1, Page 15 of 62
+
+Section V. PERF Allocation
+Key Constraints and Tolerances
+ Equity Equivalent Exposure is aligned with expectations
+
+Equity Equivalent Exposure (EEE)
+• Equity Equivalent Exposure is a measure of the sensitivity of the portfolio’s return to a given %
+  change in the return of the public equity market. For example, a 75% EEE implies that on average if
+  the public equity market experiences a 10% decline, the portfolio could be expected to decline by
+  around 7.5%. As with any other quantitative risk metric, for any individual market event realized
+  outcomes should not be expected to align precisely with this expectation
+• EEE is relevant for the PERF because a significant portion of the expected return and risk of the
+  portfolio comes from exposure to growth-sensitive factors that are typified in the equity market. The
+  majority of PERF’s investments in non-equity assets still have some sensitivity to growth, and this is
+  reflected in their individual contributions to EEE, which consolidate to the overall value
+• PERF risk is managed continuously so that as we vary allocations across different types of assets with
+  varying levels of growth exposure, e.g. commercial real estate, or venture capital, or credit bonds,
+  the aggregate level of EEE risk remains in a range of the Reference Portfolio (RP). This process
+  ensures that the PERF’s overall risk profile remains consistent with the expectation and risk
+  tolerance established by the Investment Committee in its selection of the RP
+• The Current Portfolio’s EEE is at 74.6% which is within the operating range of 70-80% and slightly
+  below the Reference Portfolio’s EEE of 75%
+• The Portfolio's EEE has moderately increased from the last year (72% for 06/30/25) as the Reference
+  Portfolio's EEE is slightly above the EEE of the prior Strategic Asset Allocation
+
+
+
+
+Exhibit 5.4
+Data source: CalPERS risk model
+
+
+
+
+                                                                                Trust Level Report September 2026
+                                                                                                      Page 15 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 16 of 62
+
+Section V. PERF Allocation
+Key Constraints and Tolerances
+  Liquidity and Leverage remain within target ranges
+Unencumbered Sellable Assets
+• The Current Portfolio has sufficient sellable unencumbered assets to meet liquidity needs. The
+  estimates below indicate the monetization capacity under current markets and stress scenarios
+• The chart illustrates both the relatively large amount of liquidity at CalPERS’ disposal, relative to
+  annual gross benefit payments
+
+
+
+
+   Exhibit 5.5
+
+
+ Leverage 1
+ • Leverage remains within the 20% policy limit and supports the ability to flexibly manage
+   cashflows as well as shorter term opportunities to deploy excess available liquidity
+
+
+
+
+Exhibit 5.6
+Data source: CalPERS and Aladdin
+
+1Total Fund Leverage measures financing and derivatives activities that create recourse to PERF. The value includes 8.8% total fund
+
+financing (allocation related) and an additional 2.4% from asset class-level positioning
+                                                                                                           Trust Level Report September 2026
+                                                                                                                                 Page 16 of 62
+                                                                       Agenda Item 6b, Attachment 1, Page 17 of 62
+
+Section V. PERF Allocation
+Private Assets Pacing
+  CalPERS net deployed $20B into private market programs in FY 2025-26
+• Net capital deployed (i.e., contributions minus distributions) was +$20.4 billion
+• The net total change in private program investments, also factoring in valuation changes, was +$45
+  billion
+
+
+Drivers of One Year Change in Net Asset Value
+
+                            Contributions     Distributions       Valuation        Total NAV Change
+                 $200
+
+
+
+                 $150
+
+
+
+                 $100
+
+
+
+                  $50                                                                                                $45.0
+   In Billion
+
+
+
+
+                                                                          $31.9
+                                     $3.7             $3.1                                  $6.2
+                   $0
+
+
+
+                 ($50)
+
+
+
+                ($100)
+
+
+
+                ($150)
+                         Infrastructure     Real Estate       Private Equity      Private Debt         Total Private
+                                                                                                          Assets
+Exhibit 5.7
+Data sources: State Street, AREIS, PEARS
+
+
+
+
+                                                                                             Trust Level Report September 2026
+                                                                                                                   Page 17 of 62
+                                                                Agenda Item 6b, Attachment 1, Page 18 of 62
+
+Section V. PERF Allocation
+Private Assets Pacing
+ Contractual unfunded commitments at $68.7B
+• Total contractual unfunded commitments to private assets at fiscal year-end were $68.7 billion, an
+  increase of $6.5 billion from the prior fiscal year-end value
+• Unfunded commitments shown here are primarily due to obligations of PERF as a Limited Partner in
+  externally managed funds. These commitments represent a potential future draw on PERF liquidity
+  which CalPERS has little or no ability to influence
+• Liquidity to fund these outstanding commitments is maintained by retaining sufficient capacity in
+  sellable Reference Portfolio and other public asset classes, accounting for the expected calls on
+  capital, and buffering for uncertainty in offsetting distributions
+• Contractual unfunded commitments are a subset of potential future capital deployments. For some
+  asset classes, e.g. Real Estate, CalPERS deploys capital through annual revocable allocations to
+  separately managed accounts. In others, co-investment capital, where deployment is controlled by
+  CalPERS, can represent a meaningful share of investments
+
+
+
+                                                                               Prior Year (6/28/25)
+                                Net Asset Value   Contractual Unfunded        Contractual Unfunded
+ Asset Class                         ($B)          Commitments ($B)            Commitments ($B)
+ Private Equity                       123.6               32.1                          31.3
+ Real Estate                          54.8                4.8                            2.7
+ Infrastructure                       24.9                3.8                            4.8
+ Private Debt                         27.5                28.0                          23.3
+ Total Private Assets                 230.7               68.7                          62.1
+
+Exhibit 5.8
+Data sources: Aladdin, AREIS, PEARS
+
+
+
+
+                                                                                  Trust Level Report September 2026
+                                                                                                        Page 18 of 62
+                                                                                             Agenda Item 6b, Attachment 1, Page 19 of 62
+
+Section V. PERF Allocation
+Internal vs. External Management
+  PERF may add value by adjusting internal/external management mix over time
+• Approximately 50% of PERF assets are internally managed, generally split along public/private lines
+• In private assets, the preponderance of external management today may offer opportunities for cost
+  reduction, because greater internal or co-invest share can be achieved
+• In contrast, in public markets, there may be opportunity to make greater use of cost-efficient
+  external partnerships to generate value add and complement internal skillsets
+
+
+                                                              Internal      External    Direct & Co-Investment
+
+                               20.0%
+
+                               18.0%
+                                                                   1.5%
+                                             5.7%
+                               16.0%
+  % of Total PERF Gross Asset Value
+
+
+
+
+                                                       6.5%
+
+                               14.0%
+
+                               12.0%
+
+                               10.0%
+
+                                                                   16.7%                                      16.5%
+                                      8.0%
+                                                                               1.7%
+                                             13.5%
+                                      6.0%            12.0%
+
+
+                                      4.0%                                                                                                0.4%
+                                                                                                                           7.8%
+                                                                               6.4%      0.8%       1.2%
+
+                                      2.0%                                                          2.9%
+                                                                                                                                           3.4%
+                                                                                         2.8%
+
+                                      0.0%
+                                             Active    Active     Private      Real Infrastructure Private   Indexed Treasury            Other¹
+                                             Public    Fixed      Equity      Estate                Debt      Public
+                                             Equity   Income                                                  Equity
+            Exhibit 5.9
+
+
+
+1 Other includes LLER, Liquidity, and Balance Sheet Strategy.
+
+
+                                                                                                                 Trust Level Report September 2026
+                                                                                                                                       Page 19 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 20 of 62
+
+Section VI. PERF Performance Detail
+As of June 30, 2026
+Realized Outcomes vs Expectations
+ Despite volatility, returns are within long-term expectations
+• The PERF Strategic Asset Allocation (SAA) had long term expected annualized return of +6.8%, with a
+  volatility of roughly 12% (based on Capital market assumptions approved in 2021)
+• An annualized volatility of around 12%, means 7 out of 10 years the PERF is expected to generate a
+  return between (5.2)% and +18.8%. The other 3 years the PERF is expected to generate a return
+  below (5.2)% or above +18.8%
+• This range of outcomes accounts for uncertainty in markets over short time periods and assumes
+  returns will average out over time
+• This volatility is reflected in actual PERF returns. Over shorter 1-Yr periods, we see returns ranging
+  from (31.1)% to +25.5% while long-term returns (10-Yr) remain relatively stable in the range of
+  +4.3% to +9.7%
+• Outcomes over the last ALM cycle (July 2022 to June 2026) were within the range of expectations
+Rolling 10-Yr Annualized Total Return vs Rolling 1-Yr Total Return
+                                        Rolling 1-Year Return                Rolling 10-Yr Annualized Return
+  30%
+  20%
+  10%
+   0%
+(10%)
+(20%)
+(30%)
+(40%)
+    Jun-07        Jun-09       Jun-11        Jun-13        Jun-15       Jun-17        Jun-19       Jun-21          Jun-23         Jun-25
+Exhibit 6.1
+
+Realized Outcome vs 2021 ALM Expectations
+                               Cumulative Total PERF Total Return                 Cumulative Expected Total Return
+                               +/-1 Standard Deviation                            +/-2 Standard Deviations
+
+ 2021 ALM Expectations:
+   6.8% Annual Return
+   12% Annual Volatility
+
+
+
+
+ Jun-22          Dec-22          Jun-23           Dec-23            Jun-24           Dec-24          Jun-25             Dec-25             Jun-26
+Exhibit 6.2
+                                                                                                               Trust Level Report September 2026
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr unless                              Page 20 of 62
+noted as cumulative.
+                                                                                       Agenda Item 6b, Attachment 1, Page 21 of 62
+
+Section VI. PERF Performance Detail
+Sources of PERF NAV Change and Total Return
+ Growth assets drove FY 2025-26 return
+• All asset classes had positive performance for the 1-Yr period and contributed to PERF’s NAV
+  increasing by more than $79 billion during the fiscal year
+• Public equities, which returned +22.5% and includes both Cap Weighted and Factor Weighted
+  equities, were the largest contributor to PERF’s fiscal year return followed by Private Equity, which
+  returned +17.0%
+
+1-Yr Total Return Contribution
+                                           16%
+                                                                                                                        1.1%        14.8%
+                                           14%                               0.4%      0.3%                 13.7%
+                                                                    4.0%
+                                                                                                (0.2)%
+                                           12%
+               Total Return Contribution
+
+
+
+
+                                           10%            1.7%
+                                           8%    7.4%
+
+                                           6%
+
+                                           4%
+
+                                           2%
+
+                                           0%
+
+                                                          Contribution from Policy Benchmark Components
+                                                                                                            Total
+                                                 Public            Private    Real    Private   Strategic   Policy     Value          Total
+                                                 Equity   Income   Equity    Assets    Debt     Leverage     BM        Added          Fund
+Average Weight                                   38.9%    29.5%     18.6%    12.9%      4.0%     (4.0)%     100%           -            -
+Return                                           22.5%     5.8%     17.0%     6.3%     11.0%        -       13.7%          -         14.8%
+Cumul Dollar Return (B)                          $41.5     $9.2     $22.0     $2.4      $1.7     $(1.0)     $76.0        $6.3        $82.3
+
+
+Exhibit 6.3
+
+
+
+
+All performance reported net of investment expenses and annualized unless noted as cumulative. Private asset performance reflects
+prior quarter financial reporting received through 6/30/2026.
+                                                                                                             Trust Level Report September 2026
+                                                                                                                                   Page 21 of 62
+                                                                                       Agenda Item 6b, Attachment 1, Page 22 of 62
+
+Section VI. PERF Performance Detail
+Sources of PERF NAV Change and Total Return
+  Growth assets drove 10-Yr return
+• Over the past 10 years, the PERF NAV has increased by over $340 billion
+• PERF returns are typically driven by “growth” assets (e.g., public and private equity). Looking at 10-Yr
+  performance, we see Public and Private Equity account for +6.2% (or >80%) of the PERF Total return
+  of +8.6%
+
+ 10-Yr Total Return Contribution
+
+                                             9%
+                                                                                       0.1%                8.3%       0.2%        8.6%
+                                                                              0.4%
+                                             8%                     1.6%                         (0.0)%
+
+                                             7%
+                 Total Return Contribution
+
+
+
+
+                                                           0.6%
+                                             6%   5.6%
+                                             5%
+
+                                             4%
+
+                                             3%
+
+                                             2%
+
+                                             1%
+
+                                             0%
+
+                                                           Contribution from Policy Benchmark Components
+                                                                                                           Total
+                                                  Public            Private    Real    Private             Policy      Value        Total
+                                                  Equity   Income   Equity    Assets    Debt1     Other2    BM         Added        Fund
+ Average Weight                                   46.6%    26.4%     11.0%    12.8%      1.2%      2.0%     100%          -            -
+ Return                                           12.6%     2.2%     13.1%     4.6%       -          -      8.3%          -         8.6%
+ Cumul Dollar Return (B)                          $234.7    $24.2    $71.4     $16.8     $5.2     $(0.8)   $351.6       13.0       $364.6
+
+  Exhibit 6.4
+
+
+
+
+All performance reported net of investment expenses and annualized unless noted as cumulative. Private asset performance reflects
+prior quarter financial reporting received through 6/30/2026.
+1 Private Debt was part of the Opportunistic Strategies Program prior to 7/1/2022
+2 Other includes impact from benchmark leverage and historical Policy Benchmark allocations that are not part
+                                                                                                         Trustof theReport
+                                                                                                               Level Policy September 2026
+  Benchmark                                                                                                                    Page 22 of 62
+                                                                                 Agenda Item 6b, Attachment 1, Page 23 of 62
+
+Section VI. PERF Performance Detail
+Attribution of PERF Excess Return
+  Multiple drivers of PERF excess return
+• Public Equity and Real Assets were top drivers of PERF excess return for both the 1-Yr and 5-Yr
+  periods resulting from their combinations of excess returns and average weights in PERF
+• Private Equity contribution to excess return driven by differences in valuation approach versus its
+  public markets benchmark
+• Allocation & Other contribution to PERF excess return reflects impacts from allocation changes
+  relative to the outgoing SAA target weights
+1-Yr Excess Return Attribution                                                                                         73          113
+                                 100
+              Excess Return
+
+              (basis points)
+
+
+
+
+                                                    13
+              Contribution
+
+
+
+
+                                           58
+                                  50                                                        16            2
+                                                                               45
+                                   0
+                                                                 (94)
+                                 (50)
+                                        Public                Private        Real        Private                  Allocation      Total
+                                        Equity   Income       Equity        Assets        Debt          LLER      & Other2        Fund
+Average Weight                          37.4%     28.9%       18.6%         12.8%         4.0%          2.2%           -          100%
+Return                                  24.1%      5.8%       17.0%          6.3%        11.0%          5.4%           -          14.8%
+Benchmark Return                        22.5%      5.4%       22.4%          3.1%         7.2%          4.0%           -          13.6%
+Excess Return (basis
+                                         168       41          (547)         318           379           137            -           113
+points)
+Cumul Value Added (B)                    $3.2     $0.7         $(4.9)        $2.3          $0.9         $0.2          $4.0         $6.3
+Exhibit 6.5
+
+5-Yr Excess Return Attribution
+                                 70
+                                 60                                                                                   18            59
+                Excess Return
+
+                (basis points)
+                Contribution
+
+
+
+
+                                 50                                                                       3
+                                 40                                                         8
+                                                                              18
+                                 30                 4
+                                 20       19
+                                 10                             (11)
+                                  0
+                                        Public                Private        Real        Private                  Allocation       Total
+                                        Equity   Income       Equity        Assets        Debt1         LLER      & Other2         Fund
+Average Weight                          45.3%     29.2%       15.5%         14.3%         2.6%          2.5%           -           100%
+Return                                  11.1%      0.0%       11.9%          4.1%           -           5.1%           -           6.8%
+Benchmark Return                        10.6%     (0.1)%      11.1%          2.4%           -           3.7%           -           6.2%
+Excess Return (basis
+                                         50        12            79          170             -          140             -           59
+points)
+Cumul Value Added (B)                   $5.0      $1.1         $(4.6)        $4.7          $2.1         $0.9          $5.7         $15.0
+Exhibit 6.6
+All performance reported net of investment expenses and annualized for periods greater than 1-Yr unless noted as cumulative. Private asset
+                                                                                                          Trust Level Report September 2026
+performance reflects prior quarter financial reporting received through 6/30/2026.
+1 Private Debt was part of the Opportunistic Strategies Program prior to 7/1/2022
+                                                                                                                                Page 23 of 62
+2 Other includes impact from strategic financing and investments in Non-SAA segments
+                                                                                                   Agenda Item 6b, Attachment 1, Page 24 of 62
+
+Section VII. PERF Risk Detail
+As of June 30, 2026
+Volatility and Equity Equivalent Exposure (EEE)
+     Overall risk level is consistent with Reference Portfolio (RP)
+ Current Levels
+ • Total Fund Volatility increased from the prior quarter as the portfolio has been rebalanced in
+   anticipation of TPA implementation to align with the Reference Portfolio market risk level
+ • While PERF volatility is expected to generally remain at a level similar to that of the reference
+   portfolio, the portfolio is not managed to target a specific volatility. The primary metrics to maintain
+   alignment with Investment Committee objectives and risk tolerance are Active Risk (measuring
+   deviation from the Reference Portfolio) and Equity Equivalent Exposure (EEE, measuring sensitivity
+   to growth risk)
+ • Active Risk is slightly below the expected operating range, and higher level of Active Risk is expected
+   in the next few years. Equity Equivalent Exposure (EEE) is consistent with the RP
+                                                                                               Current            Last Qtr.                Last Year
+                                                                  Policy Limit               06/30/2026          03/31/2026               06/30/2025
+                  Total Fund Volatility (%)                                -                       13.9                  13.2                    13.0
+                  Reference Portfolio Volatility (%)                       -                       14.3                  N/A                     N/A
+
+                  Active Risk (bps)                                     400                        235                    N/A                     N/A
+
+                  Equity Equivalent Exposure (%)                           -                       74.6                    72                     72
+                  Exhibit 7.1
+
+ Trends
+                  • Forecasted and realized volatility metrics indicate that active strategies in the portfolio have
+                    generally not materially increased overall volatility relative to the benchmark
+                  • Fluctuations in forecasted volatility are only partly driven by changes in the portfolio. Most of the
+                    variation visible below is the result of changing market conditions and changes in risk measurement
+                    methodology
+                  • Similarly, comparison of forecasted vs. realized volatility is also challenging, as realized volatility is
+                    lagged and biased downwards due to smoothed valuations in private assets
+
+                  25
+                                 Forecasted Portfolio (1yr lag)   Forecasted Benchmark (1yr lag)          Realized 5-Y Portfolio             Realized 5-Y Benchmark
+                  20
+Annualized in %
+
+
+
+
+                  15
+                  10
+                   5
+                   0
+                  Exhibit 7.2
+
+                                                                                                                                   Trust Level Report September 2026
+                   Exhibit 7.2                                                                                                                           Page 24 of 62
+                                                             Agenda Item 6b, Attachment 1, Page 25 of 62
+
+Section VII. PERF Risk Detail
+Risk Decomposition
+ Growth oriented asset classes dominate overall risk
+
+Contribution to Total Portfolio Volatility
+• Public and Private Equities are the primary contributors to Total Portfolio Volatility of 13.9%.
+  Fixed Income active strategies, Treasury, and Private Debt provide diversification benefits that offset
+  much of their inherent volatility, leading to lower risk contributions than implied by their allocation
+  weights
+
+
+
+
+ Exhibit 7.3
+
+ % Contribution to Active Risk
+ • Private asset programs are the largest contributors to Active Risk at 1.76%. Active Public Equity,
+   though it is the largest active program in AUM size (20.4% of PERF), contributes only 0.04% to Active
+   Risk. This is because the Program is managed to the same underlying index as the Reference Portfolio
+   equities
+
+
+
+
+Exhibit 7.4
+Data source: CalPERS Risk Model
+
+
+
+
+                                                                                 Trust Level Report September 2026
+                                                                                                       Page 25 of 62
+                                                                       Agenda Item 6b, Attachment 1, Page 26 of 62
+
+Section VII. PERF Risk Detail
+Risk Decomposition
+Public and Private Equities contribute 84% of Total Forecasted Volatility
+                                    Market Value         Total Forecasted   % Contribution to            5-Year
+Asset Class
+                                     ($ Billions)         Volatility (%)     Total Volatility     Realized Volatility (%)
+Public Assets
+Active Public Equity                    129.8                                      28                          -
+              Enhanced Index                     52.8         19.3                      11                          15.6
+          Traditional Active                     43.4         19.7                      9                           15.0
+                  Multi-Factor                   27.1         19.4                      6                           14.3
+                       Climate                    6.6         19.3                      1                           -
+Active Fixed Income                     125.3                                       4                          -
+                  EM Sov Debt                    32.4          7.7                                                  -
+                    High Yield                   32.1          6.0                                                  6.9
+                          MBS                    32.0          5.5                                                  6.8
+                       IG Corp                   28.8          5.8                                                  11.4
+                         Other                    0.1           -                                                   -
+Private Assets
+Private Equity                          123.6                                      32                         6.3
+                       Buyout                    69.2         22.6                      17                     -
+                       Growth                    43.8         25.1                      12                     -
+              Venture Capital                     6.3         26.9                      2                      -
+                Opportunistic                     4.3         22.6                      1                      -
+Real Estate                              54.8                                       6                         7.2
+                          Core                   48.5         12.2                      5                      -
+                     Non-Core                     6.3         21.7                      1                      -
+Infrastructure                           24.9                                       4                         3.8
+                          Core                   13.8         18.5                      2                      -
+                     Non-Core                    11.0         16.5                      2                      -
+Private Debt                             27.5                                       2                          -
+                Direct Lending                   14.0          6.3                      1                      -
+                Differentiating                  13.5          8.2                      1                      -
+Plan Level                               73.1                                       0
+                 Long Treasury                   32.7          9.9                      0                      -
+      Balance Sheet Strategy                     22.7          0.2                      0                      -
+                          LLER                   14.1          2.5                      0                     1.5
+                         Other                    3.5          4.2                      0                      -
+Reference Portfolio Assets               76.5                                      24
+      Indexed Public Equity                     111.9         19.3                      24                   14.9
+                     Treasury                    20.1          4.5                      0                      -
+       Financing & Liquidity                    (55.5)         0.2                      0                      -
+TOTAL PERF                              635.4                 13.9                100                         8.1
+Exhibit 7.5
+Data source: State Street Bank and CalPERS Risk Model                                        Trust Level Report September 2026
+                                                                                                                   Page 26 of 62
+                                                                              Agenda Item 6b, Attachment 1, Page 27 of 62
+
+Section VII. PERF Risk Detail
+Risk Decomposition (cont.)
+ Active Risk is diversified across asset classes and strategies
+
+Active Risk
+• The primary contributors to Active Risk are Private Equity, Active Fixed Income, and Real Estate
+                                                                                                         5-Year
+                                       Market Value         Standalone        % Contribution to
+     Asset Class                                                                                  Realized Active Risk
+                                        ($ Billions)      Active Risk (bps)      Active Risk
+                                                                                                          (bps)
+
+     Public Assets
+     Active Public Equity                 129.8                 146                   2                    -
+                   Enhanced Index                 52.8                100                 0                        49
+               Traditional Active                 43.4                400                 1                        300
+                       Multi-Factor               27.1                200                 0                        176
+                            Climate                6.6                77                  0                        -
+     Active Fixed Income                  125.3                 388                  18                    -
+                       EM Sov Debt                32.4                640                                          -
+                         High Yield               32.1                608                                          20
+                               MBS                32.0                280                                          45
+                            IG Corp               28.8                392                                          26
+                              Other                0.1                -                                            -
+     Private Assets
+     Private Equity                       123.6                 744                  48                  1180
+                            Buyout                69.2                707                 25                       -
+                            Growth                43.8                892                 19                       -
+                   Venture Capital                 6.3                1036                3                        -
+                     Opportunistic                 4.3                707                 2                        -
+     Real Estate                          54.8                  865                  17                   184
+                               Core               48.5                836                 14                       -
+                          Non-Core                 6.3                1435                3                        -
+     Infrastructure                       24.9                  975                   3                   817
+                               Core               13.8                1140                1                        -
+                          Non-Core                11.0                835                 1                        -
+     Private Debt                         27.5                  674                   7                    -
+                     Direct Lending               14.0                615                 3                        -
+                     Differentiating              13.5                750                 4                        -
+     Plan Level                           73.1                                        5
+                      Long Treasury               32.7                984                 4                        -
+          Balance Sheet Strategy                  22.7                10                  0                        -
+                               LLER               14.1                316                 0                    118
+                              Other                3.5                390                 0                    -
+     Reference Portfolio Assets           76.5                                        0
+           Indexed Public Equity                 111.9                10                  0                        6
+                          Treasury                20.1                10                  0                        -
+           Financing & Liquidity                 (55.5)               10                  0                        -
+     Allocation Management                                                            1                        -
+     TOTAL PERF                           635.4                 235                 100                   199
+
+     Exhibit 7.6
+Data source: CalPERS Risk Model
+                                                                                                      Trust Level Report September 2026
+                                                                                                                            Page 27 of 62
+                                                                                           Agenda Item 6b, Attachment 1, Page 28 of 62
+
+Section VII. PERF Risk Detail
+Historical Simulation
+ Significant PERF drawdowns should be expected in stress scenarios
+
+Historical Stress Scenarios
+• Historical stress testing is a complementary way to model the level of risk in a portfolio. It can
+  provide a more intuitive understanding than the statistical metric of standard deviation (volatility),
+  while also exploring tail events
+• The current PERF portfolio would have incurred significant drawdowns in recent market stress
+  events, most notably the Global Financial Crisis of 2008. This result is in line with expectations given
+  the portfolio’s equity-heavy and growth-sensitive composition
+• Note these estimates are based on the risk model’s factor representation of the portfolio and do not
+  consider lagged valuation effects in private markets, which could somewhat mute the reported
+  return impact in a rapid market drawdown
+
+                                           Portfolio Return        Reference Portfolio Return      Excess Return
+
+                                                          (2.2)%
+                                                          (2.2)%                         2003 Mortgage Spreads Widening (Jul 2003 - Aug 2003)
+                                                                             0.1%
+
+
+                              (13.9)%
+                                         (9.2)%                                          2007 Credit Spreads Widening (Jul 2007 - Jul 2008)
+                                                   (4.7)%
+
+
+  (25.8)%
+            (21.4)%                                                                      2008 Market Crash (Sep 2008 - Nov 2008)
+                                                      (4.4)%
+
+
+                                      (9.8)%
+                                    (10.3)%                                              2011 US Downgrade (Jul 2011 - Sep 2011)
+                                                                             0.5%
+
+
+                                              (7.5)%
+                                               (7.1)%                                    2013 Fed Tapering (May 2013 - Jun 2013)
+                                                               (0.3)%
+
+
+                                            (8.3)%
+                                             (7.7)%                                      2015 Chinese Market Crash (Jun 2015 - Aug 2015)
+                                                               (0.5)%
+
+
+                                 (12.2)%
+                                 (12.3)%                                                 2020 COVID (Feb 2020 - Mar 2020)
+                                                                             0.1%
+
+(30)%       (25)%     (20)%      (15)%        (10)%       (5)%          0%          5%
+
+  Exhibit 7.7
+
+
+
+
+                                                                                                                   Trust Level Report September 2026
+                                                                                                                                         Page 28 of 62
+                                                                               Agenda Item 6b, Attachment 1, Page 29 of 62
+
+Section VII. PERF Risk Detail
+Historical Simulation (cont.)
+  PERF risk profile closely tracks the equity market, though with lower overall risk
+Simulated Drawdowns of PERF Portfolio vs. S&P 500
+• Longer-term historical simulation underscores a strong relationship between PERF’s simulated
+  portfolio and the stock market
+• The simulated drawdowns of the PERF across time are lower than the drawdown of the global equity
+  market. This outcome is roughly consistent with the 0.75 Equity Equivalent Exposure (EEE)
+  expectation of the portfolio. But the relationship is not perfectly consistent across scenarios - EEE is
+  an average expectation and not a predictor of individual market events
+• The analytical technique employed here provides a broader historical perspective than the stress
+  tests shown on the prior page. However, it employs a less robust proxy-based methodology and only
+  simulates the broad asset mix and does not account for security-level positioning
+
+    0%
+
+
+
+
+  -20%
+                                                                                                                     COVID-
+                                      Flash Crash                                                                      19
+                                        of 1962                                      1987 Crash/
+  -40%                                                                               Program                        2022 Fed
+                                                Tech Crash                           Trading                       Tightening
+                                                 of 1970
+                                                                               Volcker
+                                                                             Tightening
+  -60%                                              Stagflation/Oil
+                                 Post-WWII             Embargo
+                                                                                        Tech Bubble
+                                   Crash                                                                           Global
+                                                                                          Collapse
+                                                                                                               Financial Crisis
+  -80%
+                             1937 Fed
+                            Tightening                                                      S&P drawdown from previous highs
+               Crash of                                                                     PERF simulated drawdown*
+                1929
+-100%
+
+
+
+ Exhibit 7.8
+
+
+* Simulated performance of PERF asset allocation rebalanced quarterly to the current weights assuming historical returns for current
+ benchmarks. For historical periods when performance data is not available for some asset classes, risk-comparable proxies are used.
+                                                                                                         Trust Level Report September 2026
+                                                                                                                               Page 29 of 62
+                                                                                 Agenda Item 6b, Attachment 1, Page 30 of 62
+
+Section VII. PERF Risk Detail
+Diversification Characteristics
+  PERF is mainly invested in the United States
+Regional Exposures
+• Non-US portfolio holdings are approximately 27% and widely diversified across regions and countries
+• PERF country composition is generally aligned with the Reference Portfolio with the biggest
+  difference in Japan
+
+              80%      75% 74%                PERF Weight (%)         Reference Portfolio Weight (%)
+
+              70%
+              60%
+              50%
+   Weight %
+
+
+
+
+              40%
+              30%
+              20%                            14%                          14%
+                                                   11%              9%
+              10%
+                                                                                            2%    0%
+              0%
+                     N America                EMEA                Asia Pacific         Latin-S America
+    Exhibit 7.9
+
+
+                                         PERF                  Reference Portfolio                      Active
+   Top 10 Countries                    Weight (%)                  Weight (%)                          Weight (%)
+   United States                         72.8                         71.6                                1.2
+   United Kingdom                         3.5                          2.2                                1.3
+   Japan                                  2.6                          4.4                               -1.8
+   Canada                                 1.8                          2.2                               -0.4
+   China1                                 1.5                          1.9                               -0.4
+   Taiwan                                 1.3                          2.5                               -1.2
+   Germany                                1.3                          1.3                                0.0
+   France                                 1.2                          1.4                               -0.3
+   India                                  1.0                          1.2                               -0.2
+   Netherlands                            0.9                          1.1                               -0.1
+   Exhibit 7.10
+Data source: Public market assets are as of 6/30/26; Real Assets as of 3/31/26; Private Equity as of 12/31/25
+1 Includes Hong Kong
+
+                                                                                                           Trust Level Report September 2026
+                                                                                                                                 Page 30 of 62
+                                                                                Agenda Item 6b, Attachment 1, Page 31 of 62
+
+Section VII. PERF Risk Detail
+Diversification Characteristics (cont.)
+  20% foreign currency exposure
+
+Foreign Currency Exposure
+• PERF non-USD exposure is 20.3% versus 28.3% in the Reference Portfolio. Foreign currency exposure
+  in the Reference Portfolio comes entirely from the public equity benchmark, which is global
+  capitalization weighted
+• At the total portfolio level, foreign currency exposure contributes about 4.8% of total expected
+  volatility
+• Relative to the Reference Portfolio, the Active Risk contribution from foreign currency exposure is
+  very small, as other risk drivers dominate
+
+
+  Exposure
+                                                    Public Equity                                   Private Equity
+  6.0%
+
+                                                    Income                                          Real Assets
+  5.0%
+                                                    Aggregate of Remaining                          Ref Portfolio Weight (%)
+
+  4.0%
+
+
+
+  3.0%
+
+
+
+  2.0%
+
+
+
+  1.0%
+
+
+
+  0.0%
+               EUR         GBP           JPY          CAD          TWD          KRW           INR          HKD            CHF
+
+Exhibit 7.11
+Data source: Public market assets are as of 6/30/26; Real Assets as of 3/31/26; Private Equity as of 12/31/25
+
+
+
+
+                                                                                                           Trust Level Report September 2026
+                                                                                                                                 Page 31 of 62
+                                                                                          Agenda Item 6b, Attachment 1, Page 32 of 62
+
+Section VII. PERF Risk Detail
+Diversification Characteristics (cont.)
+  PERF is diversified to individual issuers and industries
+Issuer Concentration
+• PERF is diversified across individual issuers
+• The largest issuers are the United States Government (US Treasury), its housing finance arms
+  (Government Sponsored Enterprises), NVIDIA, Apple, and a real estate holdings company
+Top 20 Issuers
+ 90%
+
+ 80%      77%
+
+ 70%
+
+ 60%
+
+ 50%
+
+ 40%
+
+ 30%                 23%                                                                                                        US TREASURY (not shown in chart)
+                                                                                                                                7.6% PERF
+ 20%                                                                                                                            25% Reference Portfolio
+
+
+ 10%
+
+  0%
+         Rest of    Top 20
+          PERF      Issuers
+
+Exhibit 7.12
+Industry Concentration* – Top 10
+• PERF is diversified across industries with the largest deviations from Reference Portfolio in private
+  equity
+ 70%       64%
+                                                                                              PERF (%)                   Reference Portfolio (%)
+ 60%
+                                                                             Software                                   3.6%
+                                                                                                                                                       9.0%
+
+ 50%                                       Semiconductors & Semiconductor Equipment                                                        6.2%
+                                                                                                                                                                         12.1%
+                                                                                Banks                                    4.0%
+                                                                                                                                       5.6%
+ 40%                   36%                                           Pharmaceuticals                             3.0%
+                                                                                                                2.8%
+                                           Technology Hardware, Storage & Peripherals                       2.6%
+ 30%                                                                                                                           4.5%
+                                                          Oil, Gas & Consumable Fuels                      2.4%
+                                                                                                           2.4%
+
+ 20%                                                                        Insurance                      2.3%
+                                                                                                         2.1%
+                                                                      Broadline Retail                   2.2%
+                                                                                                         2.1%
+ 10%                                                  Health Care Providers & Services          0.9%
+                                                                                                         2.1%
+
+                                                                      Capital Markets                  1.9%
+  0%                                                                                                    2.0%
+
+          Rest of      Top 10                                                            0%       2%               4%                 6%          8%     10%       12%           14%
+           PERF      Industries
+
+Exhibit 7.13
+
+* Industry Concentration report covers Public Equity, IG Corp, High Yield and Private Equity
+                                                                                                                                           Trust Level Report September 2026
+ Data source: Public market assets are as of 6/30/26; Real Assets as of 3/31/26; Private Equity
+                                                                                                                                                                 Page 32 of 62
+ as of 12/31/25
+                                                                                  Agenda Item 6b, Attachment 1, Page 33 of 62
+
+Section VII. PERF Risk Detail
+Leverage
+  PERF maintains modest leverage
+   Policy Leverage
+   • As of June 30, 2026, PERF Net leverage was 11.2%
+   • Leverage remains within the 20% policy limit and supports the ability to flexibly manage cashflows
+     as well as shorter term opportunities to deploy excess available liquidity
+
+   PERF Leverage Breakdown1,2,3,4
+
+
+
+
+    Exhibit 7.14
+   Data sources: Aladdin, AREIS. Strategic leverage reported here may differ slightly from aggregate allocation reporting due to minor
+   cashflow timing mismatches between systems
+
+
+1 FX Forwards used for hedging are not counted as leverage. Options are included based on delta adjusted notional value
+2 All leverage in this exhibit is recourse to CalPERS
+3 Leverage in Real Assets, Private Equity and Private Debt is implemented at the individual fund- or portfolio company-level and is non-
+
+recourse
+4 Total Fund Leverage measures financing and derivatives activities that create recourse to PERF. The value includes 8.8% total fund
+
+financing (allocation related) and an additional 2.4% from asset class-level positioning.
+                                                                                                            Trust Level Report September 2026
+                                                                                                                                  Page 33 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 34 of 62
+
+Section VII. PERF Risk Detail
+Leverage (cont.)
+Non-Recourse Debt and Subscription Financing
+• The prior page describes leverage managed and measured explicitly as part of implementation of
+  the PERF portfolio, with recourse to the Total Fund in accordance with the Leverage Policy
+• There is additional leverage in the portfolio that is non-recourse and an implicit characteristic of
+  many of the assets we hold
+• Real Assets, Private Debt and Private Equity implement the strategies with debt at either the fund
+  and/or property level, all of which is non-recourse to the PERF. The table below provides the last
+  known debt by asset class
+
+
+
+                                                 Non-Recourse Debt
+        Strategy
+                                                as of 03/31/2026 ($B)
+        Real Estate                                              $28.6
+        Infrastructure                                           $19.3
+        Forestland                                               $0.1
+        Private Debt1                                            $20.3
+        Private Equity2                                          $0.1
+       Exhibit 7.15
+
+
+
+
+ • Subscription financing, which allows managers to deploy capital in funds without immediately calling
+   capital, is monitored separately and shown below
+
+        Asset Class                               Subscription Financing ($B)3
+        Private Equity                                               $6.7
+        Private Debt                                                 $7.4
+       Exhibit 7.16
+
+       Data source: CalPERS
+
+
+
+
+1 Non-recourse debt in Private Debt is asset-based lending provided to the funds where CalPERS invests. The banks base credit on the
+
+  quality of the invested assets and have no recourse to the Limited Partners. As of March 31, 2026
+2 Non-recourse debt in Private Equity are liabilities in the funds that CalPERS invests in net of subscription financing. As of 3/31/2026.
+
+  Liabilities at the individual company level are not included
+3 As of March 31, 2026. Subscription financing is a loan to a fund, where the banks base credit on the committed capital to be contributed
+
+ from the limited partners                                                                                    Trust Level Report September 2026
+                                                                                                                                    Page 34 of 62
+                                                                Agenda Item 6b, Attachment 1, Page 35 of 62
+
+Section VII. PERF Risk Detail
+Liquidity
+
+Unencumbered Sellable Assets
+• The estimates below indicate the monetization capacity per asset class under current markets and
+  stress scenarios
+• The chart illustrates both the relatively large amount of liquidity at CalPERS’ disposal as well as the
+  relative liquidity of the various asset segments
+
+
+
+
+ Exhibit 7.17
+ Data source: Aladdin
+
+
+
+
+¹ Baseline - Aladdin – Unencumbered assets available for sale
+                                                                                   Trust Level Report September 2026
+² Stress – Aladdin 30-day Stress
+                                                                                                         Page 35 of 62
+                                                              Agenda Item 6b, Attachment 1, Page 36 of 62
+
+Section VII. PERF Risk Detail
+Counterparty Risk
+ Counterparty risk is managed via monitoring and collateralization
+• Counterparty risk is the risk that, in the event a counterparty fails, CalPERS does not receive the
+  value owed to us by the counterparty, for example, outstanding P&L on a derivatives contract
+• CalPERS holds positions in swaps, options, futures, rights and warrants, forward foreign currency
+  exchange, repurchase and reverse repurchase, and forward purchase and securities lending
+  contracts -- all of which may create counterparty exposure
+• CalPERS seeks to control this risk through two primary channels: active collateralization of exposures
+  (typically daily) and a comprehensive regime of monitoring and review. The latter includes
+  counterparty credit evaluations and approvals, counterparty credit limits, monitoring procedures,
+  and use of market accepted standard agreements
+• This report describes exposures directly contracted by CalPERS, and not by the external investment
+  managers. External investment managers are required to have strict guidelines to manage and
+  control counterparty risk
+
+ Current aggregate financial conditions are moderate
+• Most counterparty risk management takes place at the individual counterparty level. However,
+  aggregate market risks are also monitored, with additional oversight measures implemented during
+  crisis periods
+
+      Historical Bank Credit Default Swap Spreads (From December 2010 – Present)
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+  0
+  Dec-10 Dec-11 Dec-12 Dec-13 Dec-14 Dec-15 Dec-16 Dec-17 Dec-18 Dec-19 Dec-20 Dec-21 Dec-22 Dec-23 Dec-24
+
+ Exhibit 7.18                     US Bank Weekly CDS        EU Bank Weekly CDS
+
+ Data source: Bloomberg
+
+                                                                                   Trust Level Report September 2026
+                                                                                                         Page 36 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 37 of 62
+
+Section VII. PERF Risk Detail
+Counterparty Risk (cont.)
+ Majority of counterparty exposure is collateralized
+• The tables that follow show a snapshot of counterparty exposures across the various types of
+  agreements CalPERS uses that can create counterparty exposure
+• In general, money owed to or by CalPERS is collateralized daily, resulting in little net exposure
+                                                                  Net MTM Total ($M) Collateral Posted ($M)                           Net Exposure ($M)
+                                                                   (+) = CalPERS is due money​         (+) = CalPERS has posted​
+                       Agreement Type                                                                                                 (+) = CalPERS exposed to
+                                                                    (-) = CalPERS owes money​      (-) = Counterparties have posted         Counterparty​
+
+Master Repurchase Agreement (MRA)                                                (72,548.0)                            72,387.6                        (160.5)
+International Swaps and Derivatives Association (ISDA)                              (219.6)                               211.6                          (8.1)
+Master Securities Forward Transaction Agreement
+                                                                                             5.6                              10.7                          16.3
+(MSFTA)
+Securities Lending Agreement (SLA)                                                 64,167.6                         (66,803.4)                      (2,635.8)
+Total                                                                              (8,594.5)                           5,806.4                      (2,788.0)
+Exhibit 7.19
+
+• Custodial risk is the risk that, in the event a depository institution or counterparty fails, CalPERS
+  would not be able to recover the value of its deposits, investments, or collateral securities. This risk
+  arises in exchange traded derivatives, where CalPERS posts margin to engage in exchange traded
+  derivatives via a Futures Commission Merchant (FCM)
+• FCMs are highly regulated financial entities that accept orders for exchange traded contracts in
+  Central Clearing Counterparties (CCPs). Collateral posted at the FCM is mostly used to meet the
+  margin requirements at the CCPs. Total amount posted to FCMs was $3.1 billion
+• The collateral in the FCM exhibit has been provided to the FCM to post at the CCPs on behalf of
+  CalPERS and bridging operational, timing and processing gaps in collateral transfer
+• CalPERS has pledged $1.5 billion in Regulatory Initial Margin (UMR IM), and each counterparty (for
+  non-cleared SWAPS) has pledged to CalPERS the same. Eligible collateral (IM) is pledged to a
+  segregated third-party custodian. Each secured party has security interest, lien, and right of set-off
+  against the non-secured party in the event of default and liquidation
+
+
+
+
+  1 SLA – Net MTM represents the market value of CalPERS assets out on loan. Collateral posted is the amount of cash or
+
+  securities posted to CalPERS
+                                                                                                                         Trust Level Report September 2026
+                                                                                                                                               Page 37 of 62
+                                                                                  Agenda Item 6b, Attachment 1, Page 38 of 62
+
+Section VIII. Program Overviews
+As of June 30, 2026
+Global Public Equity Markets Investment Highlights
+  Strong long-term performance, value creation, and diversified, cost-efficient
+  portfolio implementation
+• Delivered strong absolute and excess returns, with both Factor-weighted and Cap-Weighted
+  strategies outperforming their respective benchmarks over five years
+• Generated $5 billion in cumulative value added over five years, led by Traditional Active strategies
+• Maintained a cost-efficient portfolio, with 84% of the total GPE assets managed internally
+• Allocated $34 billion to active strategies in a risk-aware manner
+
+Key Performance and Risk Metrics
+
+     $241.8B                        12.6%                        $5.0B                       19.3%                       78 bps
+        Ending                        10-Yr                        5-Yr                      Forecasted              Forecasted Active
+      Asset Value                   Annualized                 Cumulative                     Volatility1                  Risk1
+                                   Total Return                Value Added
+
+
+Distribution of Assets ($B)
+
+                                                             Factor Weighted | $6.6B
+
+                                                             Cap Wtd - Index Oriented | $111.9B
+
+                                                             Cap Wtd - Enhanced Index | $52.8B
+
+                                                             Cap Wtd - Traditional Active | $43.4B
+
+                                                             Cap Wtd - Multi Factor | $27.1B
+
+Exhibit 8.1
+Strategy 5-Year Performance                                                  Excess
+                                                  Total         Benchmark Return (basis Value Added
+                                                 Return           Return     points)        ($M)
+Factor Weighted                                   7.3%             6.7%        57          627.2
+
+Cap Weighted                                     11.6%              11.0%              52              4,337.8
+  Index Oriented                                 10.9%              10.9%               6               351.7
+  Enhanced Index                                 13.6%              12.7%              86               838.6
+  Traditional Active                             14.0%              11.0%              306             3,334.9
+  Multi Factor                                   11.9%              11.0%              85               (52.4)
+Exhibit 8.2
+1 Forecasted Volatility & Active Risk are based on longer term strategy expectations, as per CalPERS Risk   Trust Level Report September 2026
+                                                                                                                                  Page 38 of 62
+Model. Point in time Volatility and Active Risk are 19.3% and 39 bps, respectively.
+                                                                                Agenda Item 6b, Attachment 1, Page 39 of 62
+
+Section VIII. Program Overviews
+Global Public Equity Markets Operational Highlights
+  Advanced investment frameworks, fee efficiency, shareholder accountability,
+  and sustainable investment integration
+ • Advanced development of strategy underwriting and allocation frameworks
+ • Implemented a new fee structure essential to preserving net alpha capture
+ • Advocated for shareholder rights and promoted board accountability, including voting to oppose
+   1,960 Directors for Human Capital Management/ Diversity Concerns and to oppose 45% of Say-on-
+   Pay Proposals in the U.S.
+ • Collaborated with Sustainable Investments to refine Climate Transition Index
+ Key Operational Metrics
+
+           28                        84%                         98,000                    370                      11 bps
+        # of Team                  Internally-                  Proxy Voting/           Companies                 FY Total Program
+        Members                     Managed                      Ballot Items            Engaged                     Fees Paid 3
+
+
+                                                   FY 2025-26                                         FY 2024-25
+                                                                                  3
+                                   Avg AUM         Fees Paid          Fees Paid       Avg AUM         Fees Paid          Fees Paid3
+        Expense Type
+                                     ($M)             ($M)              (BPS)           ($M)             ($M)              (BPS)
+
+  Internal Management1               $ 194,642         $ 21.4             1.1          $ 192,292         $ 12.8               0.7
+
+
+  External Management2               $ 27,292          $ 197.5             72           $ 18,481         $ 50.4                27
+
+
+  Consultants Expense                  N/A              $ 1.4             0.1             N/A             $ 1.4               0.1
+
+  Technology & Operating
+                                       N/A             $ 16.7             0.8             N/A            $ 16.2               0.8
+  Expense
+  Total Program                      $ 221,934         $ 237.0             11          $ 210,774         $ 80.9                4
+ Exhibit 8.3
+ Executing Our Strategic Initiatives
+ Key focus areas for the coming year include:
+    • Expand collaboration in cross-asset forums to support Total Portfolio Approach
+    • Enhance the Active Risk Framework and Portfolio construction to further diversify alpha sources
+        and efficiently capture equity risk premia
+    • Support Data and Technology Modernization through design and implementation of the Total
+        Fund and Capital Markets Platform Project
+    • Advance the Sustainable Investments 2030 Strategy through a framework for identifying and
+        selecting active climate transition strategies
+1 Internal Management includes internal model provider fees
+2 External Management includes base and performance fees
+3 Management Fee basis points calculated on Int/Ext Avg AUM. Consultants and Technology & Operating   Trust Level Report September 2026
+                                                                                                                            Page 39 of 62
+Expense basis points calculated on Total Program Avg AUM
+                                                                               Agenda Item 6b, Attachment 1, Page 40 of 62
+
+Section VIII. Program Overviews
+As of June 30, 2026
+Global Fixed Income Investment Highlights
+Understanding Our Returns: Key Drivers
+    Provided portfolio diversification, income, and liquidity while generating
+    long-term value
+•     Active strategy return of +6.9% exceeded the PERF discount rate
+•     57 basis points of active strategy excess return delivered $692 million in dollar value add
+•     All active strategy components delivered positive excess return
+•     5-year information ratio of 1.3 reflects strong risk-adjusted return for the GFI active strategy
+
+Key Performance and Risk Metrics
+
+        $178.0B                     2.2%                        $1.1B                       4.8%                      129 bps
+           Ending                    10-Yr                        5-Yr                     Forecasted              Forecasted Active
+         Asset Value               Annualized                 Cumulative                    Volatility1                  Risk1
+                                  Total Return                Value Added
+
+Distribution of Assets ($B)
+
+                                                   U.S. Treasuries | $52.8B
+                                                   Securitized | $32.0B
+                                                   Investment Grade Corporates | $28.8B
+                                                   High Yield Corporates | $32.1B
+                                                   Emerging Market Debt | $32.4B
+
+
+    Exhibit 8.4
+Strategy 5-Year Performance
+                                                                              Excess
+                                            Total        Benchmark         Return (basis         Value Added
+                                           Return          Return             points)                ($M)
+U.S. Treasuries                            (4.1)%          (4.1)%                0                    0.0
+Securitized                                 0.9%            0.6%                34                  506.5
+Investment Grade Corporates                (1.3)%          (1.3)%               (4)                 (33.9)
+High Yield Corporates                       4.1%            4.1%                 8                  110.7
+Emerging Market Debt2                         -               -                  -                     -
+Exhibit 8.5
+1Forecasted Volatility & Active Risk (vs strategy's benchmark) are based on CalPERS Risk Model
+2Emerging Market Debt incepted 1/1/2023 and does not have 5-years of performance history. 3-Yr
+                                                                                                          Trust Level Report September 2026
+performance is Total Return: 8.7%, Benchmark Return: 8.0%, Excess Return: 67 bps, Value Added: $540.1M.                         Page 40 of 62
+                                                                             Agenda Item 6b, Attachment 1, Page 41 of 62
+
+ Section VIII. Program Overviews
+ Global Fixed Income Operational Highlights
+  Strengthened portfolio implementation through cross-team collaboration
+  and manager diversification
+ • Strengthened cross-team collaboration through credit underwriting support, leverage
+   deployment, and balance sheet management
+ • Expanded the Emerging Markets active manager roster to broaden investment opportunities and
+   diversification
+ Key Operational Metrics
+
+          29                    13 yrs.                       73%                    $99.2M                         7 bps
+      # of Team             Average Tenure of                 Actively                 Fiscal Year               FY Total Program
+      Members                Team Members                     Managed                  Mgt Fees1                    Fees Paid 2
+
+
+
+                                                 FY 2025-26                                          FY 2024-25
+                                                                              2
+                                 Avg AUM         Fees Paid        Fees Paid         Avg AUM          Fees Paid         Fees Paid2
+      Expense Type
+                                   ($M)             ($M)            (BPS)             ($M)              ($M)             (BPS)
+Internal Management               $ 143,724         $ 15.6               1            $ 120,522         $ 13.4             1
+
+
+External Management1              $ 41,706          $ 99.2             24             $ 34,755          $ 62.4             18
+
+
+Consultants Expense                 N/A              $ .0                0              N/A              $ .0              0
+
+Technology & Operating
+                                    N/A             $ 12.5               1              N/A             $ 11.9             1
+Expense
+Total Program                     $ 185,430         $ 127.2              7            $ 155,277         $ 87.7             6
+
+Exhibit 8.6
+
+ Executing Our Strategic Initiatives
+  Key focus areas for the coming year include:
+  • Align team structure and capabilities with evolving investment priorities
+  • Evolve existing strategies and portfolio design to build active risk capacity
+  • Deepen collaboration with Private Markets on credit opportunities
+  • Enhance analytics and reporting integration through data and technology modernization
+  • Integrate sustainable investment priorities into portfolio implementation
+
+
+
+ 1 External Management includes base and performance fees
+ 2 Management Fee basis points calculated on Int/Ext Avg AUM. Consultants and Technology & Operating Trust Level Report September 2026
+                                                                                                                          Page 41 of 62
+ Expense basis points calculated on Total Program Avg AUM
+                                                                                Agenda Item 6b, Attachment 1, Page 42 of 62
+
+Section VIII. Program Overviews
+As of June 30, 2026
+Private Equity Investment Highlights
+Understanding Our Returns: Key Drivers
+    Prioritizing manager selection and scaling co-investments to enhance net
+    returns through cost-effective implementation
+•       Launched in 2022, the current PE model has emphasized stopping procyclicality; diversifying the
+        portfolio toward Middle Market Buyout, Growth, and Venture; integrating sustainability and
+        emerging managers into underwriting; and improving manager and co-investment deal selection
+•       In FY 25-26, the current PE strategy delivered a 28.7% time-weight return, outperforming the prior
+        PE strategy (3.3%), Cap-Weighted Public Equity (25.8%), the State Street Private Equity Index
+        (11.0%), and InvMetrics Mean Public Defined Benefit PE (8.8%)
+Key Performance and Risk Metrics
+      $123.6B                     13.1%                        11.9%                     $32.1B                     23.5%
+          Ending                    10-Yr                        5-Yr                    Contractual               Forecasted
+        Asset Value               Annualized                  Annualized                  Unfunded                 Volatility 1
+                                 Total Return                Total Return               Commitments
+
+Distribution of Assets ($B)
+
+                                              Buyout | $66.7B
+                                              Credit | $0.7B
+                                              Growth/Expansion | $40.9B
+                                              Opportunistic | $4.8B
+                                              Venture | $10.5B
+                                              Other Assets | $0.1B
+
+
+    Exhibit 8.7
+    Strategy 5-Year Performance
+                                              Private Equity Excess
+                                 Total         Benchmark Return (basis Value Added
+                                Return            Return     points)       ($M)
+Buyout                          10.3%             11.1%        (87)     (10,451.3)
+Credit                           5.3%             11.1%       (586)       (238.6)
+Growth/Expansion                14.2%             11.1%        308        5,875.0
+Opportunistic                   10.5%             11.1%        (63)       (485.2)
+Venture                         11.3%             11.1%         19         600.2
+    Exhibit 8.8
+Private asset performance reflects prior quarter financial reporting received through 6/30/2026.       Trust Level Report September 2026
+1Forecasted Volatility is based on CalPERS Risk Model
+                                                                                                                             Page 42 of 62
+                                                                                Agenda Item 6b, Attachment 1, Page 43 of 62
+
+ Section VIII. Program Overviews
+ Private Equity Operational Highlights
+   Expanding investment Opportunities and Industry Engagement
+• Funded $2 billion of PE co-investments supporting Climate solutions while continuing to source new
+  opportunities
+• Continued focus on emerging and diverse managers to help drive better performance; For the 1-year
+  period as of March 31,2026, two of the Top 10 performing managers are emerging, and seven are
+  diverse
+• Expanded industry participation in the ESG Data Convergence Initiative, co-founded by CalPERS;
+  participating CalPERS’ GPs doubled from 20 to 40, engagement rate increased from 49% to 65%, and
+  proportion of NAV with participating GPs increased from 50% to 75%
+  Key Operational Metrics
+
+          34                         134                         4171                        6,288                     111 bps
+       # of Team                     # of                         # of                         # of                   FY Total Program
+       Members                     Managers                      Funds                       Portfolio                   Fees Paid 3
+                                                                                            Companies
+
+                                                   FY 2025-26                                             FY 2024-25
+                                                  Fees & Profit Fees & Profit                            Fees & Profit Fees & Profit
+       Expense Type                Avg AUM        Sharing Paid Sharing Paid3               Avg AUM       Sharing Paid Sharing Paid3
+                                     ($M)             ($M)         (BPS)                     ($M)            ($M)         (BPS)
+Internal Management                    $0              $ 12.4              1                  $0             $ 10.1                1
+
+
+External Management2                $ 110,085         $ 1198.3            109               $ 88,669        $ 1143.0              129
+
+
+Consultants Expense                   N/A               $ 1.7              0                  N/A             $ 1.0                0
+
+Technology & Operating
+                                      N/A              $ 12.2              1                  N/A            $ 10.2                1
+Expense
+Total Program                       $ 110,085         $ 1224.6            111               $ 88,669        $ 1164.3              131
+
+Exhibit 8.9
+Executing Our Strategic Initiatives
+Current PE Strategy Key Initiatives include:
+• Asset allocation and vintage year diversification
+• Empowering the team and focused resources on manager selection
+• Expanded sustainability integration and emerging manager investments
+• Diversified portfolio beyond Large Buyout and toward Middle Market, Venture, and Growth
+• Use of bespoke vehicles and co-investments to reduce costs and accelerate performance impact
+• Improved manager selection and co-investment deal selection
+
+1 Including Funds, Fund-of-Funds, and Customized Investment Accounts / Separately Managed Accounts as of March 31, 2026, due
+
+to Quarter-lag reporting
+2 Includes management base fees inclusive of offsets and waivers and profit sharing paid
+                                                                                                            Trust Level Report September 2026
+3 All basis points fees paid figures are calculated on Total Program Avg AUM
+                                                                                                                                  Page 43 of 62
+                                                                                Agenda Item 6b, Attachment 1, Page 44 of 62
+
+Section VIII. Program Overviews
+Real Assets Investment Highlights
+Understanding Our Returns: Key Drivers
+  Delivering strong benchmark-relative performance
+• Infrastructure returned +9.4% and outperformed its benchmark by +627 basis points, with strong
+  outperformance over five- and 10-year periods
+• Real Estate returned +5.1%, outperforming its benchmark by +194 basis points and generating
+  approximately $1 billion in value added
+• Real Estate performance shows positive momentum, with property fundamentals in equilibrium and
+  valuations rebounding
+
+
+ Key Performance and Risk Metrics
+
+       $79.9B                        4.6%                        $4.7B                       $8.6B                  13.4%
+         Ending                       10-Yr                        5-Yr                    Contractual             Forecasted
+       Asset Value                  Annualized                 Cumulative                   Unfunded                Volatility1
+                                   Total Return                Value Added                Commitments
+
+
+Distribution of Assets($B)
+
+
+
+                                                Real Estate | $54.8B
+
+                                                Infrastructure | $24.9B
+
+                                                Forestland | $0.2B
+
+
+
+
+ Exhibit 8.10
+
+Strategy 5-Year Performance
+                                                                  Excess
+                                       Total         Benchmark Return (basis Value Added
+                                      Return           Return     points)        ($M)
+Real Estate                            2.6%             2.4%        26         (605.1)
+Infrastructure                         8.4%             2.4%       609         5,377.5
+Forestland                             3.7%             2.4%       139          (49.0)
+ Exhibit 8.11
+                                                                                                     Trust Level Report September 2026
+Private asset performance reflects prior quarter financial reporting received through 6/30/2026.                           Page 44 of 62
+1Forecasted Volatility is based on CalPERS Risk Model
+                                                                                Agenda Item 6b, Attachment 1, Page 45 of 62
+
+Section VIII. Program Overviews
+Real Assets Operational Highlights
+  Enhancing analytics and modernizing operations
+• Expanded research analytics to include Non-Core coverage
+• Collaborated with Total Fund to advance modernization of Data and Technology Initiative
+• Deployed to several Climate Solutions opportunities representing an increase in NAV of $2.6 billion
+  in 2025
+
+ Key Operational Metrics
+
+          39                         931                          90% 2                  62 bps
+      # of Team                      # of                         Into GRESB           FY Total Program
+      Members                    Partnerships                     Assessment              Fees Paid 4
+
+
+                                                   FY 2025-26                                       FY 2024-25
+                                                                                   4
+                                  Avg AUM          Fees Paid           Fees Paid       Avg AUM      Fees Paid          Fees Paid4
+      Expense Type
+                                    ($M)              ($M)               (BPS)           ($M)          ($M)              (BPS)
+Internal Management                   $0                $ 15.1             2              $0              $ 12.9             2
+
+
+External Management3                $ 75,552            $ 435.5            58           $ 68,860          $ 426.2            62
+
+
+Consultants Expense                   N/A                $ 2.3             0              N/A              $ 2.5             0
+
+Technology & Operating
+                                      N/A               $ 15.2             2              N/A             $ 14.5             2
+Expense
+Total Program                       $ 75,552            $ 468.1            62           $ 68,860          $ 456.2            66
+
+Exhibit 8.12
+
+
+ Executing Our Strategic Initiatives
+ The Real Assets team continues to make progress on its strategic initiatives, including:
+ • Facilitate TPA implementation and promote Total Fund collaboration
+ • Emphasize deployment in Non-Core investments; Optimize Core portfolio
+ • Accelerated deployment in co-investment vehicles to capture further fee efficiencies
+ • Support Data & technology Modernization initiative to achieve operational readiness
+
+
+
+
+ 1 As of March 31, 2026, due to Quarter-lag reporting
+ 2 % of the portfolio submitted into GRESB Assessment in 2025
+ 3 External Management includes base and performance fees                                            Trust Level Report September 2026
+ 4 All basis points fees paid figures are calculated on Total Program Avg AUM                                              Page 45 of 62
+                                                                                Agenda Item 6b, Attachment 1, Page 46 of 62
+
+Section VIII. Program Overviews
+Private Debt Investment Highlights
+Understanding Our Returns: Key Drivers
+ Continued program growth and diversification
+• Private Debt continued to deliver strong performance, returning +11.0% for the 1-Yr period,
+  outperforming its benchmark by +379 basis points, and +13.6% annualized over the trailing 3-Yr
+  period, outperforming by +388 basis points
+• Private Debt continues to diversify across managers and attractive risk-adjusted opportunities, while
+  increasing co-investments to help drive performance, shape portfolio exposures and reduce overall
+  investment costs
+
+Key Performance and Risk Metrics
+
+     $27.5B                       11.1%                        $2.2B                      $28.0B                        7.2%
+       Ending                        5-Yr                        5-Yr                     Contractual                  Forecasted
+     Asset Value                 Total Return1                Cumulative                   Unfunded                     Volatility2
+                                                             Value Added1                Commitments
+
+Distribution of Assets ($B)
+
+                                                 Direct Lending | $22.2B
+                                                 Specialty Lending | $4.1B
+                                                 Real Estate Financing | $1.2B
+                                                 Other³ | $0.0B
+
+
+
+
+Exhibit 8.13
+
+
+Strategy 5-Year Performance
+                                               Private Debt Excess
+                                Total          Benchmark Return (basis Value Added
+                               Return1            Return    points)        ($M)
+Direct Lending                  11.5%              7.9%      355         1,992.6
+Specialty Lending                9.5%              7.9%      154           66.3
+Real Estate Financing           10.4%              7.9%      250          100.0
+
+Exhibit 8.14
+
+
+Private asset performance reflects prior quarter financial reporting received through 6/30/2026.
+1 Performance includes periods prior to 7/1/2022 when Private Debt was part of Opportunistic Strategies Trust Level Report September 2026
+2 Forecasted Volatility is based on CalPERS Risk Model                                                                        Page 46 of 62
+3 Other includes accounting payables and receivables and cash
+                                                                              Agenda Item 6b, Attachment 1, Page 47 of 62
+
+Section VIII. Program Overviews
+Private Debt Operational Highlights
+  Scaling the portfolio and strengthening investment expertise
+• Continued to scale the Private Debt portfolio, reaching approximately $63 billion in commitments
+  and $25 billion deployed since inception
+• Strengthened Private Debt investment governance and expertise by expanding the Investment
+  Review Committee to include colleagues from other asset classes
+
+Key Operational Metrics
+
+          12                        4.3%                         12 1                    81                       62 bps
+       # of Team                    Current                      # of                    # of                   FY Total Program
+       Members                     Allocation             External Managers             Funds                      Fees Paid 3
+
+
+
+                                                    FY 2025-26                                     FY 2024-25
+                                                   Fees & Profit Fees & Profit                    Fees & Profit Fees & Profit
+                                                                             3                                              3
+        Expense Type               Avg AUM         Sharing Paid Sharing Paid        Avg AUM       Sharing Paid Sharing Paid
+                                     ($M)              ($M)         (BPS)             ($M)            ($M)         (BPS)
+Internal Management                  $ 13,203           $ 4.9           4            $ 11,413          $ 4.4                4
+
+
+External Management1,2               $ 23,836          $ 219.9          92           $ 18,231         $ 163.8              90
+
+
+Consultants Expense                    N/A              $ .1            0              N/A              $ .1                0
+
+Technology & Operating
+                                       N/A              $ 2.9           1              N/A             $ 2.1                1
+Expense
+Total Program                        $ 37,039          $ 227.9          62           $ 29,644         $ 170.3              57
+
+Exhibit 8.15
+
+ Executing Our Strategic Initiatives
+ As the Private Debt team continues to expand its capabilities, strategic focus includes:
+ • Expand cross-team collaboration regarding existing and new investments, and ways of
+    working in alignment with TPA
+ • Enhance the efficiency of the underwriting process
+ • Expand co-investment opportunities
+ • Diversify across private debt strategies
+
+
+
+
+1 As of March 31, 2026, due to Quarter-lag reporting
+2 External Management includes base and performance fees
+                                                                                                    Trust Level Report September 2026
+3 Management Fee basis points calculated on Int/Ext Avg AUM. Consultants and Technology & Operating Expense               Page 47 of 62
+basis points calculated on Total Program Avg AUM
+                                                                             Agenda Item 6b, Attachment 1, Page 48 of 62
+
+Section VIII. Program Overviews
+Low Liquidity Enhanced Returns Highlights
+Understanding Our Returns: Key Drivers
+  Utilizing excess liquidity to generate strong absolute and excess
+  returns
+• The Low Liquidity Enhanced Return (LLER) Portfolio utilizes excess liquidity to generate excess
+  returns
+• Delivered a +12.4% fiscal-year return, outperforming the relative benchmark by +138 basis points
+• Generated approximately $245 million value add for the fiscal-year and $0.9 billion for the 5-Yr
+Key Performance and Risk Metrics
+
+      $14.1B                         4.1%                       $0.9B                2.5%
+         Ending                       10-Yr                        5-Yr             Forecasted
+       Asset Value                 Total Return                Cumulative            Volatility1
+                                                               Value Added
+
+
+Strategy 5-Year Performance
+
+                                                                         Excess
+                                              Total         Benchmark Return (basis Value Added
+                                             Return           Return     points)        ($M)
+ Low Liquidity Enhanced Returns               5.1%             3.7%       140          893.6
+
+Exhibit 8.16
+
+
+
+
+1 Forecasted Volatility & Active Risk are based on CalPERS Risk Model.
+                                                                                                   Trust Level Report September 2026
+                                                                                                                         Page 48 of 62
+                                                                 Agenda Item 6b, Attachment 1, Page 49 of 62
+
+Section VIII. Program Overviews
+Sustainable Investments
+ Leading the charge in sustainable investing
+Sustainable Investments Team
+CalPERS Sustainable Investments team is comprised of functional areas including SI Private
+Markets, SI Public Markets, and SI Policy and Partnerships. The SI team is focused on five
+Sustainable Investments objectives and provides its annual program review with the progress on
+its objectives each November.
+Climate Investments with the Asset Class
+CalPERS is targeting investment of $100 billion in climate solutions by the end of 2030. CalPERS
+climate solutions investments have continued to increase to nearly $60 billion when last reported
+to the CalPERS Board of Administration in November 2025. An updated number will be reported
+in November 2026.
+Sustainability Integration Implementation
+Continued to develop and refine the Sustainability Integration framework for each asset class and
+started implementation.
+CalPERS’ Emerging and Diverse Manager Program
+Our approach to investing with emerging managers is grounded in research and data. Studies,
+including CalPERS’ own analysis, demonstrate that emerging managers can generate
+outperformance, particularly in less efficient market segments. We believe emerging managers
+should be integrated into each asset class as part of the normal course of business.
+Partnership Insights Survey
+CalPERS partners with Lenox Park Solutions to annually administer the Partnership Insights Survey to all
+our external managers. This survey provides CalPERS a better understanding of our partners, and their
+business practices as it relates to human capital management, while generating a Lenox Park Impact
+(LPI) score for analysis and benchmarking ourselves to peers and the industry broadly. An update on
+latest Partnership Insights survey will be reported in November 2026.
+Labor Principles
+The CalPERS Labor Principles reflect our belief that effectively managed human capital drives value
+creation for investors. When an issue is identified, CalPERS follows our engagement process to address
+short- and long-term labor risks and opportunities in our portfolio companies. All new allocations to
+CalPERS external managers continue to have external managers attest to their broad alignment with
+CalPERS’ Labor Principles.
+Responsible Contractor
+During the 2025-26 fiscal year, CalPERS launched its Responsible Contractor Bidding Opportunities
+website to provide a centralized and streamlined way for CalPERS Responsible Contractor Policy (RCP)
+managers to post bidding opportunities. This website allows all interested stakeholders to receive
+notifications about upcoming bidding opportunities for eligible CalPERS Real Estate and Infrastructure
+construction and building services projects.                                    Trust Level Report September 2026
+                                                                                                       Page 49 of 62
+                                                         Agenda Item 6b, Attachment 1, Page 50 of 62
+
+Section VIII. Program Overviews
+Total Fund Portfolio Management
+Research, Allocation, and Liquidity for Strategic Returns
+Key Accomplishments Fiscal Year 2025-26
+• Led INVO’s participation in the 2026 Asset Liability Management cycle
+• Guided the design of key elements of INVO's Total Portfolio Approach (TPA) framework and
+  collaborated to support TPA transition planning and implementation
+• Established and executed new Investment Strategy Analysis (ISA) framework across all major
+  Strategies in the portfolio, in collaboration with asset class teams
+• Expanded balance sheet strategies and liquidity management, boosting P/L and cost savings from
+  additional financing and reinvestment channels
+• Led research and development of Diversifying Multi-Strategies to improve portfolio resiliency
+
+ Areas of Responsibility
+
+  Function                            Description
+
+  Asset Liability Management          Support the Asset Liability Management processes for
+                                      PERF and Affiliates, including research, portfolio modeling,
+                                      and option generation to inform Board selection of
+                                      Reference Portfolio mix or Strategic Asset Allocation
+  Total Portfolio Construction        Support Investment Office portfolio allocation decision
+                                      making under Total Portfolio Approach. Conduct research
+                                      and establish expectations on strategy-level risk and return
+                                      characteristics; model portfolio risk and liquidity
+                                      characteristics; recommend funding mixes; establish
+                                      strategy cost of capital; support committee discussion on
+                                      total portfolio allocation
+  Strategy Development &              Research and propose new cross-asset strategies to
+  Research                            enhance the portfolio’s active risk characteristics,
+                                      improving both return potential and overall risk profile
+  Economics                           Provide macro-economic and scenario analysis and
+                                      commentary to support portfolio allocation decision
+                                      making, Investment Committee, CIO, and Program areas
+  Liquidity and Financing             Manage PERF liquidity posture through the integration of
+                                      holistic liquidity management and financing functions
+  Allocation Implementation           Manage daily exposure of PERF allocation toward strategic
+                                      and tactical targets including cashflows and completion
+                                      activities
+                                                                              Trust Level Report September 2026
+                                                                                                    Page 50 of 62
+                                                                 Agenda Item 6b, Attachment 1, Page 51 of 62
+
+Section IX. Operational Highlights
+As of June 30, 2026
+Investment Office Metrics
+        10                    339                29.7 bps                13 bps
+     # of Trusts            # of Team               FY Total              5-Yr CEM
+     Managed                Members                PERF Costs            Cost Savings
+
+
+Investment Controls & Operational Risk
+• Designed and implemented new investment policy and structure to align with Total Portfolio
+  Approach (TPA)
+• Led Investment Office coordination of legislative analysis, including development of Board items,
+  and stakeholder outreach and advocacy
+• Developed and piloted the first screen template for investments reviewed by the Investment
+  Underwriting Committee
+Investment Operations
+• Enabled the transition to TPA, establishing the operational infrastructure needed to support the new
+  investment framework
+• Executed significant trading and funding activity, including more than 330,000 trades during the
+  fiscal year
+• Advanced data and technology modernization, strengthening investment data, systems, connectivity,
+  and operational capabilities
+Investment Relations
+• Advanced TPA adoption and implementation through comprehensive Board and employee
+  education, engagement, communications, and change management efforts
+• Expanded stakeholder engagement and strategic partnerships, supporting international
+  delegations, industry events, webinars, and other external engagement opportunities
+• Strengthened Investment Office communications and collaboration, expanding digital resources
+  and coordinating enterprise-wide communications and strategic initiatives
+Investment Talent & Culture
+• Improved INVO’s vacancy rate from 14% to 11%, the lowest vacancy rate since pre-COVID, in
+  collaboration with the Human Resources Division and Financial Offices
+• Completed a talent retention and development pilot, resulting in 11 promotional appointments
+  across Investment Office programs
+Investment Technology & Performance
+• Led the Investment Data & Technology Modernization Initiative from planning to implementation
+  readiness, establishing the governance, funding, and capabilities to reduce operational risk, improve
+  efficiency, and support future portfolio innovation
+• Built organizational and leadership capacity across ITP by developing leaders, expanding ownership,
+  strengthening the operating model, and increasing execution capacity across strategic priorities
+• Advanced the practical use of AI across the Investment Office, supporting new tools and
+  opportunities to strengthen learning, innovation, and business capabilities Trust Level Report September  2026
+                                                                                                    Page 51 of 62
+                                                                                   Agenda Item 6b, Attachment 1, Page 52 of 62
+
+ Section IX. Operational Highlights
+ PERF Investment Expenses
+ Fiscal Years 2021-22 thru 2025-26
+ Managing costs to promote long-term sustainability
+• From fiscal year 2021-22 to 2025-26, externally managed AUM increased from 21% to 50% of total
+  investments, driven by higher allocations to private assets and external active managers. As a result,
+  external management fee basis points increased from 21.1 bps to 25.3 bps. Although fees for private
+  assets and active management are generally higher than management fees for public assets and
+  passive management, they have historically generated greater alpha.
+• While external management fees have increased over the past five years, Controllable Investment
+  Admin & Operating Cost costs have remained relatively flat, with a slight increase in fiscal year 2025-
+  26 due to Data & Technology Modernization Initiative system implementation costs. Even so,
+  CalPERS remains cost effective relative to our latest CEM Benchmark Cost measure.
+
+
+
+
+Exhibit 9.1
+
+1 Basis points calc based on total AUM and expense type
+2 PE profit sharing paid included in unrealized gain/loss general ledger. Dollars paid included in Investment Section of Annual
+
+Consolidated Financial Report                                                                                 Trust Level Report September 2026
+3 CEM Benchmark Costs are through the current CEM report. Incomplete data due to lag in CEM reporting.
+                                                                                                                                    Page 52 of 62
+                                                           Agenda Item 6b, Attachment 1, Page 53 of 62
+
+Appendix 1: PERF Benchmarks
+ For the fiscal year ending June 30, 2026, the below benchmarks were in effect under Strategic Asset
+ Allocation.
+ Asset Class                        Policy Benchmarks
+ Public Equity – Cap Weighted       Custom FTSE All World, All Cap Equity
+ Public Equity – Factor Weighted    Custom FTSE Factor Weighted Index
+ Private Equity                     Custom FTSE All World, All Cap Equity + 150 basis points,
+                                    Quarter Lag
+ Income - Treasury                  Custom Bloomberg Government
+ Income - MBS                       Custom Bloomberg Mortgage
+ Income - IG Corporates             Custom Bloomberg Corporate ex Sov
+ Income - High Yield                Custom Bloomberg High Yield
+ Income - EM Sovereign Bonds        Custom JP Morgan EMBIG Diversified
+ Real Assets                        MSCI/PREA U.S. ACOE Quarterly Property Fund index (Unfrozen),
+                                    Quarter Lag
+ Private Debt                       Morningstar LSTA U.S. Leveraged Loan 100 Index +125 basis
+                                    points, Quarter Lag
+ Strategic Leverage                 ICE BofA US 3-Month Treasury Bill Index +50 basis points
+
+As of July 1, 2026, under the Total Portfolio Approach the PERF Reference Portfolio and component
+benchmarks are in effect.
+
+Reference Portfolio Weights and Benchmarks
+ Asset Class      Asset Segment       Weight         Benchmark
+ Public Equity    Cap Weighted        75%            Custom FTSE All World, All Cap Equity
+
+ Fixed Income     Treasuries          25%            Bloomberg US Treasury Index
+
+
+
+
+                                                                               Trust Level Report September 2026
+                                                                                                     Page 53 of 62
+                                                              Agenda Item 6b, Attachment 1, Page 54 of 62
+
+Appendix 2: Affiliate Fund Policy Benchmarks
+Affiliate Fund policy benchmarks are calculated by weighting the return of each of the asset class
+benchmarks by its policy target weight. Additional information on the asset allocation targets for
+CalPERS’ Affiliate Funds is available in the statement of investment policy for each Affiliate Fund.
+
+California Employers’ Retiree Benefit Trust
+ Asset Class                           Policy Benchmark
+ Global Equity                         MSCI ACWI IMI (Net)
+ U.S. Fixed Income                     Bloomberg Long Liability Index
+ Treasury Inflation-Protected          Bloomberg U.S. TIPs Index, Series L
+ Securities (TIPS)
+ Commodities                           S&P GSCI Total Return Daily
+
+ Real Estate Investment Trusts         FTSE EPR/NAREIT Developed (Net)
+ (REITS)
+ Liquidity                             ICE BofA US 3-Month Treasury Bill Index (asset class utilized for
+                                       operating cash)
+
+Judges’ Retirement System Fund
+ Asset Class                          Policy Benchmark
+ Cash Equivalents                     ICE BofA US 3-Month Treasury Bill Index
+
+Judges’ Retirement System II Fund
+ Asset Class                          Policy Benchmark
+ Global Equity                        MSCI ACWI IMI (Net)
+ U.S. Fixed Income                    Bloomberg Long Liability Index
+ Treasury Inflation-Protected         Bloomberg U.S. TIPs Index, Series L
+ Securities (TIPS)
+ Commodities                          S&P GSCI Total Return Daily
+
+ Real Estate Investment Trusts        FTSE EPR/NAREIT Developed Index
+ (REITS)
+ Liquidity                            ICE BofA US 3-Month Treasury Bill Index (asset class utilized for
+                                      operating cash)
+
+                                                                                  Trust Level Report September 2026
+                                                                                                        Page 54 of 62
+                                                                              Agenda Item 6b, Attachment 1, Page 55 of 62
+
+
+
+ Legislators Retirement System Fund
+  Asset Class                                    Policy Benchmark
+  Global Equity                                  MSCI ACWI IMI (Net)
+  U.S. Fixed Income                              Bloomberg Long Liability Index
+  Treasury Inflation-Protected                   Bloomberg U.S. TIPs Index, Series L
+  Securities (TIPS)
+  Commodities                                    S&P GSCI Total Return Daily
+
+  Real Estate Investment Trusts                  FTSE EPR/NAREIT Developed Index
+  (REITS)
+  Liquidity                                      ICE BofA US 3-Month Treasury Bill Index (asset class utilized for
+                                                 operating cash)
+
+ Long-Term Care Fund3
+  Asset Class                                    Policy Benchmark
+  Global Equity                                  Custom MSCI Equity Blend
+  Global Fixed Income                            Custom Fixed Income Blend
+  Commodities                                    Bloomberg Commodity Index Total Return
+  Real Estate Investment Trusts                  FTSE EPRA Nareit Developed 100% Hedged to USD Net Tax
+  (REITS)                                        Index
+  Liquidity                                      ICE BofA US 3-Month Treasury Bill Index (asset class utilized for
+                                                 operating cash)
+
+ Public Employees’ Health Care Fund
+  Asset Class                                    Policy Benchmark
+  Liquidity                                      ICE BofA US 3-Month Treasury Bill Index
+
+
+
+
+3 Benchmark changes are effective upon completion of the LTC transition to the new separately managed account structure
+
+
+                                                                                                        Trust Level Report September 2026
+                                                                                                                              Page 55 of 62
+                                                                                 Agenda Item 6b, Attachment 1, Page 56 of 62
+
+
+ Supplemental Income Plans Target Retirement Date Funds
+ The performance of each individual investment fund will be evaluated against its appropriate asset
+ class benchmark.
+  Asset Class                                      Policy Benchmark
+  U.S. Equity                                      Russell 3000 Index
+  International Equity                             MSC ACWI ex-USA IMI Index (Net)
+  U.S. Fixed Income                                Bloomberg U.S. Aggregate Bond Index
+  U.S. Fixed Income                                Bloomberg U.S. 1-3 Year Government/ Credit Bond Index
+
+  Real Assets4                                     The benchmark is a weighted benchmark consisting of:
+                                                   • Dow Jones U.S. Select REIT Index
+                                                   • Bloomberg Roll Enhanced Roll Yield Commodity Total Return
+                                                     Index5
+                                                   • S&P Global Large MidCap Commodity and Resources Index
+                                                   • S&P Global Infrastructure Index
+                                                   • Bloomberg US Govt Inflation-Linked 1-10 Year Bond Index
+  Cash Equivalents                                 ICE BofA US 3-Month Treasury Bill Index
+
+
+
+ California Employers’ Pension Prefunding Trust
+  Asset Class                                      Policy Benchmark
+  Global Equity                                    MSCI ACWI IMI (Net)
+  U.S. Fixed Income                                Bloomberg U.S. Aggregate Bond Index
+  Treasury Inflation-Protection                    Bloomberg U.S. TIPs Index, Series L
+  Securities (TIPS)
+  Real Estate Investment Trusts                    FTSE EPRA/NARIET Developed (Net)
+  (REITS)
+  Liquidity                                        ICE BofA US 3-Month Treasury Bill Index (asset class utilized for
+                                                   operating cash)
+
+
+
+
+4 Target weights for the Real Asset sub-strategies (commodities, natural resources, infrastructure, REITs, and TIPS) are evaluated
+
+regularly by SSGA to improve performance or address key risks. As such, the target weights can shift over time and are expected to
+continue to provide strategic real asset exposure for participants.
+5 Effective as of March 31, 2025.
+                                                                                                            Trust Level Report September 2026
+                                                                                                                                Page 56 of 62
+                                                          Agenda Item 6b, Attachment 1, Page 57 of 62
+
+Appendix 3: Definitions
+Term                Definition
+10-Year U.S.        The 10-yr Treasury note (bond) is a debt obligation issued by the United
+Treasury            States government with a maturity of 10 years upon initial issuance. A 10-yr
+                    Treasury note pays interest at a fixed rate once every six months and pays the
+                    face value to the holder at maturity. The “10-yr” can also be viewed as a sign
+                    of investor sentiment about the economy. A rising 10-yr yield indicates falling
+                    demand for Treasury bonds, which means investors prefer higher-risk, higher-
+                    reward investments. A falling yield suggests the opposite.
+Active Leverage     The portion of Total Fund leverage that is controlled by staff and used to fund
+                    exposures incremental to the Strategic Asset Allocation.
+Active Risk         Measurement of the deviation from the Reference Portfolio.
+Alpha               The measure of the return of an investment relative to an appropriate
+                    benchmark.
+Annual percent      The change in a variable between one apoint in time compared with the same
+change (apc)        point in time a year. This compares to annual average percent change (apc),
+                    which compares an entire year and the prior entire year.
+Balance Sheet       Core financial statement of assets, liabilities, and equity.
+
+Basis Point (bps)   1 basis point is 1/100 of a percent or 0.01%
+
+Benchmark           A collection of assets to compare against the portfolio’s assets. These are
+                    typically market indices (e.g., SP500 or Bloomberg Barclays Global Aggregate).
+                    Benchmarks can be a useful tool to evaluate performance and risk.
+Beta                A statistical measure of investment or portfolio return sensitivity to the
+                    market where the market is typically defined by a market index. A beta of 1.0
+                    means the investment moves in sync with the market. A beta of 0.5 means
+                    the investment moves 50% as much as the market. A beta of 1.5 means the
+                    investment moves 150% as much as the market. For example, a portfolio with
+                    a beta of 0.8 is expected to have an 8% return when the market returns 10%.
+Central Banks       The principal monetary authority of a nation, a central bank performs several
+                    key functions, including issuing currency and regulating the supply of credit in
+                    the economy. The Federal Reserve is the central bank of the United States.
+
+Consensus           Consensus Economics is a global macroeconomic survey firm that polls more
+Economics           than 700 economists monthly for their forecasts for over 2,000
+                    macroeconomic indicators in 115 countries. The company is headquartered in
+                    London, United Kingdom.
+
+                                                                               Trust Level Report September 2026
+                                                                                                     Page 57 of 62
+                                                               Agenda Item 6b, Attachment 1, Page 58 of 62
+
+Term                Definition
+Consumer Price      An index which measures changes in the prices of a (weighted average) basket of
+Index (CPI)         goods and services. This basket is representative of aggregate U.S. consumer
+                    spending and is a common reference point for inflation.
+
+Core Portfolio      Real Assets risk classification of investments producing a stable and predictable
+                    income after debt service. Generally, high-quality essential assets with strong
+                    competitive positions and downside protections with low risk-return profiles.
+
+Counterparty        The legal entity that holds the other side of a contract or financial transaction.
+
+Economic Activity   Any action that involves producing, distributing, or consuming products or services is
+                    an economic activity. Used synonymously with real GDP growth.
+
+Emerging Markets    Developing country’s market that is transitioning to becoming a developed nation.
+(EM)                Typically has rapid GDP growth and increasing industrialization but lacks the financial
+                    maturity, stability, or regulatory standards of advanced economies.
+
+Equity Equivalent   Measures the sensitivity to growth risk.
+Exposure (EEE)
+
+Event Risk          Refers to any future potential occurrence that can cause losses for investors or other
+                    stakeholders in a company or investment.
+
+Excess Return       The portfolio return minus the portfolio benchmark return. Time-weighted excess
+                    return is not affected by the amount of capital invested.
+
+Federal Reserve     A twelve-member committee made up of the seven members of the Board of
+Open Market         Governors; the president of the Federal Reserve Bank of New York; and, on a
+Committee (FOMC)    rotating basis, the presidents of four other Reserve Banks. The FOMC meets eight
+                    times a year to set Federal Reserve guidelines regarding the purchase and sale of
+                    government securities in the open market and the policy (overnight) interest rate as
+                    a means of influencing the volume of bank credit and money in the economy.
+
+Financial Market    Current price at which an asset or service can be bought or sold. The market price of
+Pricing             an asset or service is determined by the forces of supply and demand and, when
+                    traded in real time on global financial markets, can be influenced by (unrealized)
+                    expectations around the future.
+
+Future Commission   Highly regulated entities that accept orders for exchange traded contracts in Central
+Merchant (FCM)      Counterparty Clearing House (CCPs). Collateral posted at the FCM is mostly used to
+                    meet the margin requirements at the CCPs. The collateral in the counterparty section
+                    has been provided to the FCM to post at the CCPs on behalf of CalPERS and bridging
+                    operational timing and processing gaps in collateral transfer.
+
+High Yield (HY)     Compared to Investment Grade, these bonds have a lower credit rating meaning
+                    they have a relatively higher risk of default. Due to their higher probability of default,
+                    they pay a higher yield to compensate investors for the additional risk.
+
+                                                                                    Trust Level Report September 2026
+                                                                                                          Page 58 of 62
+                                                          Agenda Item 6b, Attachment 1, Page 59 of 62
+
+Term                 Definition
+
+Inflation            A rate of increase in the general price level of goods and services. The general
+                     term 'inflation' usually refers to the change in the CPI index over one year.
+International        An international organization with 146 members, including the United States.
+Monetary Fund        The main functions of the IMF are to lend funds to member nations to finance
+(IMF)                temporary balance of payments problems, to facilitate the expansion and
+                     balanced growth of international trade, and to promote international
+                     monetary cooperation among nations. The IMF also creates special drawing
+                     rights (SDR’s), which provide member nations with a source of additional
+                     reserves. Member nations are required to subscribe to a Fund quota, paid
+                     mainly in their own currency. The IMF grew out of the Bretton Woods
+                     Conference of 1944.
+International        A trade organization of market participants that facilitates standardization of
+Swaps and            contractual agreements to trade over-the-counter derivative contacts.
+Derivatives          CalPERS enters into ISDA agreements to trade derivatives; for example, FX
+Association (ISDA)   forwards, total return and interest rate swaps.
+Investment Grade     Bonds with a higher credit rating meaning they have a relatively low risk of
+(IG)                 default.
+Liquidity            Includes: Cash Equivalents, Pension Contributions & Other Inflows, Internal
+(sources of)         Funding and Liquidity on Demand.
+Liquidity            Includes: Pension Benefits, Private Asset Funding, Contingent uses and
+(uses of)            Maturing Derivatives/Repos & Others.
+Liquidity Coverage   Metric refers to the proportion of liquid assets to meet short term obligations
+Ratio (LCR)          under a stress scenario (within 30 days). The ratio divides Sources of Liquidity
+                     by Uses of Liquidity.
+Low Liquidity        A CalPERS investment strategy that seeks to generate modest incremental
+Enhanced Return      return by taking advantage of incremental plan liquidity. The strategy primarily
+(LLER)               invests in securities that generate incremental yield minimal to no default risk
+                     when held to maturity.
+Macroeconomics       A branch of economics that studies how an overall economy (markets,
+                     businesses, consumers, and governments) behave. Macroeconomics
+                     examines economy-wide phenomena such as inflation, price levels, rate of
+                     economic growth, national income, gross domestic product (GDP), and
+                     changes in unemployment.
+Master Repurchase    The bilateral agreement that governs the collateralized loans
+Agreement (MRA)      of securities. CalPERS uses this contract to enter into forward
+                     purchase/repurchase of US Treasury and Mortgage securities and to
+                     post/receive collateral in return (also known as Repo and Reverse Repo).
+
+                                                                               Trust Level Report September 2026
+                                                                                                     Page 59 of 62
+                                                            Agenda Item 6b, Attachment 1, Page 60 of 62
+Term                 Definition
+
+Master Securities    The bilateral agreement that CalPERS uses to enter into forward purchase or
+Forward              sale of mortgage bonds and "TBA" instruments.
+Transaction
+Agreement (MSFTA)
+Mortgage-Backed      Investment instrument where banks bundle many individual home loans
+Securities (MBS)     together into one large group, then sell shares of the bundle to investors, who
+                     receive a commensurate share of the homeowner mortgage payments.
+Net Asset Value      The value of an investment fund's assets less its liabilities.
+(NAV)
+Net Return           Performance net of internal and external investment office management
+                     expenses. CalPERS’ performance uses a daily Modified-Dietz methodology
+                     which is geometrically linked to produce time-weighted returns for longer
+                     periods.
+                     Daily Rate of Return Formula
+                         • 6/30/2016 & Prior: Dollar Value Added / (Beginning Market Value +
+                             Net Cash Flows)
+                         • 7/1/2016 to Present: Dollar Value Added / Beginning Market Value
+                         • Dollar Value Added = Gains/losses due to price appreciation and
+                             income
+                     Daily returns are geometrically linked to produce longer period returns.
+Non-Core Portfolio   Real Assets risk classification that includes both Value Add and Opportunistic.
+                     Value Add investments produce predictable net income after debt service over
+                     a one-to-three-year period, have greater risk exposure than Core, have
+                     moderate risk-return profiles, and may carry greater leverage than Core.
+                     Opportunistic investments, generally, are higher risk assets expected to
+                     produce substantial capital appreciation and higher total returns with little to
+                     no income in the short-term and may have high leverage. All development,
+                     land, and frontier markets investments are Opportunistic.
+Oil (Brent)          A crude oil blend commonly referred to as Brent Blend, London Brent, or Brent
+                     petroleum. It is the main global benchmark for oil prices.
+Oil (WTI)            West Texas Intermediate is also crude oil blend. It serves as the main US
+                     benchmark for oil prices.
+Over the Counter     A decentralized market where participants trade stocks, bonds, currencies, or
+(OTC)                derivatives without a centralized exchange or broker.
+Policy Rate          The policy interest rate is that at which the central bank will pay or charge
+                     commercial banks for their deposits or loans. This rate affects the interest rate
+                     that commercial banks apply with their customers, both borrowers and
+                     depositors, and more generally, impacts on the general price (rate) of credit in
+                     the economy.
+                                                                                 Trust Level Report September 2026
+                                                                                                       Page 60 of 62
+                                                           Agenda Item 6b, Attachment 1, Page 61 of 62
+
+
+
+Term                  Definition
+
+Portfolio Market      The sum of the underlying investment values +/- any open receivables or
+Value                 payables (uninvested assets), consistent with the Net Asset Value or Total Net
+                      Assets reported in accounting.
+                         • Public Asset Market Values are calculated as units held x price per unit
+                              + accrued income.
+                         • Private Asset Market Values represent an opinion of value as of a
+                              certain date as stated by either the investment advisor or independent
+                              appraiser. Market value differs from amount funded or net investment
+                              in that the value includes unrealized gains or losses during the holding
+                              period.
+Public Employees’     An investment fund created under California state statute and exclusively
+Retirement Fund       controlled by the CalPERS Board. The fund is managed with the expressed
+(PERF)                purpose of paying retirement benefits to participating members.
+
+
+
+
+Real Gross            Measures the total economic output of a country over a specified period,
+Domestic Product      adjusted for changes in price. The total economic output refers to the volume
+(GDP)                 of all goods and services produced by an economy. It is often referred to as
+                      constant-price GDP or constant dollar GDP.
+Reference Portfolio   Hypothetical, low cost, passive benchmark portfolio reflecting a long-term
+(RP)                  investor’s risk appetite.
+
+
+
+SLA/Sec Lending       Refers to the Securities Lending Agreement ("SLA") under which CalPERS
+                      lends securities and receives either cash or other securities as collateral.
+Supplemental          Refers to the combined program for the Public Employees' Deferred
+Income Plans (SIP)    Compensation Fund and the Supplemental Contributions Program.
+
+
+
+Supply-Chain          A network of individuals and companies who are involved in creating a
+                      product and delivering it to the consumer. Links on the chain begin with the
+                      producers of the raw materials and end when the finished product is
+                      delivered to the end user.
+
+
+
+
+                                                                                Trust Level Report September 2026
+                                                                                                      Page 61 of 62
+                                                       Agenda Item 6b, Attachment 1, Page 62 of 62
+
+
+
+
+Term              Definition
+
+Total Portfolio   Framework where governance, strategy, and decisions are made with the
+Approach (TPA)    total fund in mind.
+
+
+Uncertainty       The range of possible values or paths. These are unknown.
+
+Unfunded          A legally binding commitment to a private asset investment fund/vehicle for
+Commitments       which the capital has not yet been drawn.
+Value Added       The incremental gain or loss in dollars resulting from portfolio
+                  implementation, active management, and imperfectly investible benchmarks.
+                  Over shorter time horizons, the benchmark component can create significant
+                  variability in outcomes. Unlike a time-weighted excess return which does not
+                  account for the size of the investment, value added will vary with the amount
+                  of capital invested. Also referred to as “Dollar Value Added”.
+Volatility        A measure of the distribution of portfolio returns (or a given security). It is
+                  typically defined as the statistical standard deviation of returns, annualized.
+Wage Growth       Wages are the compensation paid to employees for the work or services they
+                  perform over a specified period. In the US it is often described as average
+                  hourly earnings. Wage growth typically refers to the annual change in wages.
+Yield Curve       A yield curve is a line that plots yields (interest rates) of bonds having equal
+                  credit quality but differing maturity dates. The slope of the yield curve gives
+                  an idea of future interest rate changes and economic activity. There are three
+                  main yield curve shapes: normal (upward sloping curve), inverted (downward
+                  sloping curve), and flat.
+
+
+
+
+                                                                            Trust Level Report September 2026
+                                                                                                  Page 62 of 62
+

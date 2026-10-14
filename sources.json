@@ -9,5 +9,16 @@
     "sha256": "8955959d671ccfe916cb3cd9f4cd1c9541067907f342bf0f4d72088f45ca67e3",
     "capture_sha256": "16dcb50b8b59fa5c1a3410e4bb28751d17567f0bda5db0eb040cb805d85f137a",
     "added_on": "2026-10-14"
+  },
+  {
+    "id": "download",
+    "title": "CalPERS Investment Committee September 2026 agenda item 6b, attachment 1",
+    "url": "https://www.calpers.ca.gov/documents/202609-invest-agenda-item06b-01-a/download?inline",
+    "original": "sources/download.pdf",
+    "capture": "captures/download.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "f90632d376cdab5e4ca3c7af7e7ed5345878b3807784077facd1a0d3a228c0aa",
+    "capture_sha256": "601a965d86f5f5f20d658d3843757d262d32cedf48f014dd997b081f5568d1de",
+    "added_on": "2026-10-14"
   }
 ]

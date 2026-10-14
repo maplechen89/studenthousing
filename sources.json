@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "portfolio-holdings-real-estate",
+    "title": "CalSTRS investment portfolio",
+    "url": "https://www.calstrs.com/portfolio-holdings-real-estate",
+    "original": "sources/portfolio-holdings-real-estate.html",
+    "capture": "captures/portfolio-holdings-real-estate.txt",
+    "extractor": "html tags removed",
+    "sha256": "8955959d671ccfe916cb3cd9f4cd1c9541067907f342bf0f4d72088f45ca67e3",
+    "capture_sha256": "16dcb50b8b59fa5c1a3410e4bb28751d17567f0bda5db0eb040cb805d85f137a",
+    "added_on": "2026-10-14"
+  }
+]

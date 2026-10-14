@@ -20,5 +20,49 @@
     "sha256": "f90632d376cdab5e4ca3c7af7e7ed5345878b3807784077facd1a0d3a228c0aa",
     "capture_sha256": "601a965d86f5f5f20d658d3843757d262d32cedf48f014dd997b081f5568d1de",
     "added_on": "2026-10-14"
+  },
+  {
+    "id": "2d00e2eab2d24bcd9e1a7018866585cd",
+    "title": "Cushman & Wakefield U.S. Market Trends & Valuation Indices: Student Housing 2025-26 Academic Year",
+    "url": "https://content.cushmanwakefield.com/api/public/content/2d00e2eab2d24bcd9e1a7018866585cd?v=42476144",
+    "original": "sources/2d00e2eab2d24bcd9e1a7018866585cd.pdf",
+    "capture": "captures/2d00e2eab2d24bcd9e1a7018866585cd.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "677d366721c27a07be770e06d711554bc62e9a933b96a50c5f4069db7ef31431",
+    "capture_sha256": "552eebcf7e4ceef7f82f85e2898a067a4823c5f157e50e1f05e994dfc4a91f84",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "student-housing-outlook-2026",
+    "title": "Walker & Dunlop Student Housing Outlook 2026",
+    "url": "https://www.walkerdunlop.com/outlooks/student-housing-outlook-2026",
+    "original": "sources/student-housing-outlook-2026.html",
+    "capture": "captures/student-housing-outlook-2026.txt",
+    "extractor": "html tags removed",
+    "sha256": "0fc8c907e953c2c1ed05eda1b88a41977d3364293d9e062b25c19a0a8acb9024",
+    "capture_sha256": "ca38fd7350f3dd888cd7bf08dc536f5af59949b2fb662d883b2bc27fcf06fb3e",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "student-housing-market-update-september-2026",
+    "title": "Capright Student Housing Market Update, September 2026",
+    "url": "https://www.capright.com/student-housing-market-update-september-2026/",
+    "original": "sources/student-housing-market-update-september-2026.html",
+    "capture": "captures/student-housing-market-update-september-2026.txt",
+    "extractor": "html tags removed",
+    "sha256": "d1ebd6ef40a48d929afb6245d95f46452d8d4619088799b027f8eb87b7a44f49",
+    "capture_sha256": "8484d0f64a15fcef7230854a786606c36c6864de9470516928f85913ce7901b8",
+    "added_on": "2026-10-14"
+  },
+  {
+    "id": "kirkland-advises-core-spaces-on-close-of-1-64-billion-flagship-fund",
+    "title": "Kirkland & Ellis press release: Kirkland Advises Core Spaces on Close of $1.64 Billion Flagship Fund",
+    "url": "https://www.kirkland.com/news/press-release/2026/05/kirkland-advises-core-spaces-on-close-of-1-64-billion-flagship-fund",
+    "original": "sources/kirkland-advises-core-spaces-on-close-of-1-64-billion-flagship-fund.html",
+    "capture": "captures/kirkland-advises-core-spaces-on-close-of-1-64-billion-flagship-fund.txt",
+    "extractor": "html tags removed",
+    "sha256": "e3d309acb61724b14d8f20cb03973460dbb0a6b475ce1da4a93e7869de5cbe0f",
+    "capture_sha256": "ed1f6f4f857943b1f6b319f01cdb7121663abda95a1d764685f42028c79247ca",
+    "added_on": "2026-10-14"
   }
 ]
